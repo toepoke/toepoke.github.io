@@ -1,0 +1,57 @@
+---
+layout: base
+---
+{% if page.cover_image %}
+<div class="article-cover">
+    <div>
+        <img src="/images/{{ page.cover_image }}" class="image">
+    </div>
+</div>
+{% endif %}
+<article>
+
+    <div class="container">
+        <header>
+<!--             <div class="meta">
+                By <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a></address> &mdash;
+                <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+            </div> -->
+            <h1 class="title">about</h1>
+            <!-- {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %} -->
+        </header>
+
+        <section>
+					<p>
+						If a picture is worth a thousand words, a <a href="https://www.youtube.com/watch?v=1oZkm_YNYoI">YouTube</a> video must be worth far more!
+					</p>
+					<iframe id="ytplayer" type="text/html" width="512" height="390"
+						src="http://www.youtube.com/embed/1oZkm_YNYoI?autoplay=1"
+						frameborder="0"></iframe>
+					<br/><br/>
+					<p>
+						If you're fed up trying to organise a game of football with your mates, 
+						try our <a href="https://toepoke.co.uk/account.aspx/sign-in-demo">online demo</a>, <a href="https://toepoke.co.uk/about.aspx/tell-me-more">find out more</a> 
+						or just <a href="https://toepoke.co.uk/user.aspx/create">start losing the faff</a>!
+					</p>
+					
+            <!-- {{ content }}
+            {% include _social.html %} -->
+        </section>
+
+<!--         <footer>
+            <address>
+               {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
+                <p>Written by <strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
+                <span class="muted">{{ page.author.bio }}</span>
+                </p>
+            </address>
+
+        </footer> -->
+
+        {% if site.inc.disqus.shortname %}
+        <section>
+            {% include _disqus.html %}
+        </section>
+        {% endif %}
+    </div>
+</article>
