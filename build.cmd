@@ -21,6 +21,8 @@ goto start
 :theEnd
 echo Bye!
 
+REM {% javascript main %}
+REM {% stylesheet main %}
 
 
 
