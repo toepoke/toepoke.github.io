@@ -47,6 +47,9 @@ I also came across this little option under the **Rules > Performance > Simulate
 
 Now at first glance that doesn't seem useful in these days of <a href='http://www.plus.net/myreferrals/new.html?intReferrerID=00424573'>high-speed broadband</a>.  However, thinking further it could be useful for emulating slower/older mobile devices (kudos to <a href="https://twitter.com/grumpywizards">GrumpyWizards</a> for helping with this little leap).
 
+Until next time!
+
+
 
 
 
