@@ -5,7 +5,10 @@ tumblr_url: http://toepoke.tumblr.com/post/43724096581/debugging-aspnet-mvc-sour
 title: "Debugging ASP.NET MVC Source Code"
 # subtitle: "What's in the box"
 date: 2010-08-18 23:40:00
-tags: code,debugging,development
+tags: 
+- code
+- debugging
+- development
 comments: true
 cover_image: bluebells.jpg
 

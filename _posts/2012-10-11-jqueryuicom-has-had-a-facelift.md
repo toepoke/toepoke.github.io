@@ -5,7 +5,11 @@ tumblr_url: http://toepoke.tumblr.com/post/43724058153/jqueryuicom-has-had-a-fac
 title: "Fluqi website fixed"
 # subtitle: ""
 date: 2012-10-11 13:44:00
-tags: techie-stuff, fluqi, fixes, jquery-ui
+tags: 
+- techie-stuff
+- fluqi
+- fixes
+- jquery-ui
 comments: true
 cover_image: bluebells.jpg
 

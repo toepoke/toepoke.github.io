@@ -5,7 +5,10 @@ tumblr_url: http://toepoke.tumblr.com/post/43724072603/fantasy-league
 title: "Fantasy League!"
 # subtitle: "What's in the box"
 date: 2011-07-23 11:08:00
-tags: fun,non-techie,toepoke
+tags: 
+- fun
+- non-techie
+- toepoke
 comments: true
 cover_image: football-right.jpg
 

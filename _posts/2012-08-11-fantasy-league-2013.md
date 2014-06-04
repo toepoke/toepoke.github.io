@@ -5,7 +5,8 @@ tumblr_url: http://toepoke.tumblr.com/post/43724059303/fantasy-league-2013
 title: "Fantasy League, 2013 !"
 # subtitle: "What's in the box"
 date: 2012-08-11 09:50:00
-tags: fun
+tags: 
+- fun
 comments: true
 cover_image: football-left.jpg
 

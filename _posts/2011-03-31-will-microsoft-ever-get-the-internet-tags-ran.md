@@ -5,7 +5,9 @@ tumblr_url: http://toepoke.tumblr.com/post/43724079678/will-microsoft-ever-get-t
 title: "Will Microsoft ever get the internet?"
 # subtitle: "What's in the box"
 date: 2011-03-31 17:16:00
-tags: rants,techie-stuff
+tags: 
+- rants
+- techie-stuff
 comments: true
 cover_image: bluebells.jpg
 

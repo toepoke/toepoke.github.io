@@ -5,7 +5,10 @@ tumblr_url: http://toepoke.tumblr.com/post/43724104306/simple-example-on-using-f
 title: "ForEach and generics in C#"
 # subtitle: "What's in the box"
 date: 2009-10-18 22:10:00
-tags: c#,code,generics
+tags: 
+- c#
+- code
+- generics
 comments: true
 cover_image: trees-sunlight.jpg
 

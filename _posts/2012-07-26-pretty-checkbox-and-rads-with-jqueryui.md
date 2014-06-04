@@ -5,7 +5,13 @@ tumblr_url: http://toepoke.tumblr.com/post/43724059803/pretty-checkbox-and-rads-
 title: "Checked UI"
 # subtitle: "What's in the box"
 date: 2012-07-26 08:39:00
-tags: checkedUI, development, javascript, jquery, jquery-ui, techie-stuff
+tags: 
+- checkedUI
+- development
+- javascript
+- jquery
+- jquery-ui
+- techie-stuff
 comments: true
 cover_image: cityscape.jpg
 

@@ -5,7 +5,9 @@ tumblr_url: http://toepoke.tumblr.com/post/43724096062/my-annoying-visual-studio
 title: "[My] Annoying Visual Studio options"
 # subtitle: "What's in the box"
 date: 2010-08-26 19:07:00
-tags: development,visual-studio
+tags: 
+- development
+- visual-studio
 comments: true
 cover_image: cityscape.jpg
 

@@ -5,7 +5,12 @@ tumblr_url: http://toepoke.tumblr.com/post/43724068554/enhancing-the-non-javascr
 title: "Fluqi, jQuery UI &amp; disabled JavaScript"
 # subtitle: "What's in the box"
 date: 2012-02-27 18:17:00
-tags: css, development, fluqi, jquery-ui, techie-stuff
+tags: 
+- css
+- development
+- fluqi
+- jquery-ui
+- techie-stuff
 comments: true
 cover_image: bluebells.jpg
 
