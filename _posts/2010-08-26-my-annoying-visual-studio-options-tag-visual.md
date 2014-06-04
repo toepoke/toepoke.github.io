@@ -33,6 +33,6 @@ Evidently this feature is dependent on the editor being used in Visual Studio at
 
 &nbsp;&nbsp;&nbsp;**Tools** > **Options** > **C#** > **Advanced** > **Highlight references to symbol under cursor**
 
-<img src="/images/posts/2010-08-26-my-annoying-vs-options.jpg" alt="" />
+<img class="img-center" src="/images/posts/2010-08-26-my-annoying-vs-options.jpg" alt="" />
 
 Hope this helps someone else as well as me! 

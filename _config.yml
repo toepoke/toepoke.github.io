@@ -46,7 +46,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://franzjunge.com
+url:         https://toepoke.co.uk
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -129,4 +129,7 @@ assets:
   cache: false
   gzip: [ text/css, application/javascript ]
   debug: false
+
+gems:
+  - jemoji
 

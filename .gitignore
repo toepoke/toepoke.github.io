@@ -1,5 +1,6 @@
 _site/
 Notes.txt
+Tags.txt
 build.cmd
 webserver.cmd
 .DS_Store

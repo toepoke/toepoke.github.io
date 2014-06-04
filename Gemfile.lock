@@ -113,4 +113,5 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-assets
+  jemoji
   uglifier
