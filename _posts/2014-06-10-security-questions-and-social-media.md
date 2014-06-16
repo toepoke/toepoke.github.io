@@ -82,7 +82,7 @@ Before the internet become mainstream [security questions](http://en.wikipedia.o
 
 However, with the [rise](https://facebook.com/toepoke) and [rise](https://twitter.com/toepoke_co_uk) of social media I believe they're becoming a frail means of [authentication](http://en.wikipedia.org/wiki/Authentication).
 
-_You_ might be very careful with [what you share](http://mashable.com/2013/07/09/facebook-privacy-how-to/), but you have little control over what your friends share, and [their friends share](http://gizmodo.com/5882027/sharing-with-friends-of-friends-on-facebook-exposes-you-to-150000-people).
+_You_ might be very careful with [what you share](http://mashable.com/2013/07/09/facebook-privacy-how-to/), on social media, but you have little control over what your friends share, and [their friends share](http://gizmodo.com/5882027/sharing-with-friends-of-friends-on-facebook-exposes-you-to-150000-people).
 
 There is a saving grace however.  Those little questions are basically just more passwords.  There's no reason why you can't just put something completely unrelated there.
 

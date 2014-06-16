@@ -68,7 +68,7 @@ I had [a look around the market](http://www.pcpro.co.uk/features/380377/password
 2. It's [free](http://www.runnersworld.co.uk/forum/clubhouse/ae-yorkshiremen-really-tight/104780.html).
 3. If you read it wrong, it sounds a little rude <img src="/images/wink.png" alt="wink" title="wink" />
 
-I've also written posts about installing **KeePass** on the [Windows]({% post_url 2014-06-10-keepass-installation-part-1-desktop %}) and [Android]({% post_url 2014-06-10-keepass-installation-part-2-android-mobile %}).
+I've also written posts about installing **KeePass** on the [Windows]({% post_url 2014-06-10-keepass-installation-part-1-desktop %}) and [Android]({% post_url 2014-06-10-keepass-installation-part-2-android-mobile %}) platforms.
 
 
 ## Being pragmatic
@@ -78,7 +78,7 @@ I'm set.  I'm fully committed to trying **KeePass** for 2 weeks.  I've got it [i
 Am I going to go through over 10 years of e-mails tracking down all the websites I've used? **No chance!** I need to be realistic about what can be achieved, so the [two week challenge](#the-two-week-challenge) will be run with the following considerations:
 
 1. **No actively looking to add historical websites.**
-2. **No manual logging-in**<br/>Any new or existing website I need to log into in the next fortnight, I'll do it through **KeePass**.
+2. **No manual logging-in**<br/>Any new or existing websites I need to log into in the next fortnight, I'll do it through **KeePass**.
 3. **No new passwords**<br/>I'm keeping the existing passwords. If I decide after [2 weeks](#the-two-week-challenge) that **KeePass** isn't for me, I can back out easily.
 
 ## So how did it go?
@@ -87,7 +87,7 @@ All in all things went well and I didn't encounter anything I was particularly c
 
 - The biggest challenge was forcing myself to use the tool rather than logging in manually.  Ultimately it's quicker to use the tool once you've trained yourself with the keyboard short-cuts.
 - The mobile application doesn't have the best experience as you're limited to copying and pasting your credentials - I guess Android doesn't allow the [KeePass Auto-Type](http://keepass.info/help/base/autotype.html) feature.  This isn't really a concern for me as I don't really use my phone in that way.
-- If you forget your **Master password** you're in a big heep of ... You lose access to every password on every website, there's no _send reminder_ option here. That's a lot of password resets to process.
+- If you forget your **Master password** you're in a big heap of ... You lose access to every password on every website, there's no _send reminder_ option here. That's a lot of password resets to process.
 - Ensure your **KeePass password database** is backed up.  Again, if the file becomes corrupted, or your hard disk fails, you lose all your credentials.
 
 I'm actually quite impressed with [KeePass](http://keypass.info); It's one of those tools where you come across something that seems _a bit weird_ and a quick search reveals there's a perfectly good reason why some feature works the way it does, and often a way of changing the behaviour to what you'd prefer.
