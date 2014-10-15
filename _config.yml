@@ -133,7 +133,9 @@ assets:
 gems:
   - jemoji
   
-media: /images/posts
+# prose.io configuration
+prose:
+  media: "images/posts"
 
 
 
