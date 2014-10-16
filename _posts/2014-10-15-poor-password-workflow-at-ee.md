@@ -49,16 +49,16 @@ And sure enough I can enter a new password and it's saved against my account:
 <img src="/images/posts/2014-10-16-step-4.jpg" alt="password change confirmation" title="password change confirmation" />
 
 ## So what's the problem?
-I'm sure you see where I'm going with this one, but just in case:
-- I login with my mobile telephone number - it's not like everyone in my contacts list knows what this is ... oh ...
-- I'm also asked for a CAPTCHA [which makes things more secure](http://captcha.com/articles/can-captcha-be-broken.html) ... oh ...
-- Fortunately they also ask for a secret question - nobody is going to know the answer to that ... [except anyone on facebook]({% post_url 2014-06-10-security-questions-and-social-media %}) ... oh ...
+I'm sure you see where I'm going with this one, but just in case:<br/>
+- I login with my mobile telephone number - it's not like everyone in my contacts list knows what this is ... oh ...<br/>
+- I'm also asked for a CAPTCHA [which makes things more secure](http://captcha.com/articles/can-captcha-be-broken.html) ... oh ...<br/>
+- Fortunately they also ask for a secret question - nobody is going to know the answer to that ... [except anyone on facebook]({% post_url 2014-06-10-security-questions-and-social-media %}) ... oh ...<br/>
 
 ## So what's the solution?
-The solution is quite simple:
-1. Take me through the existing steps, but _send me a secure password reset link_.  
-2. Only allow the reset link to be used once.
-3. Expire it after 2 hours if it hasn't been used.
+The solution is quite simple:<br/>
+1. Take me through the existing steps, but _send me a secure password reset link_.  <br/>
+2. Only allow the reset link to be used once.<br/>
+3. Expire it after 2 hours if it hasn't been used.<br/>
 
 Alternatively there's this new thing called [2-factor authentication](http://lifehacker.com/5938565/heres-everywhere-you-should-enable-two-factor-authentication-right-now) where your provider can SMS a unique code to your mobile phone.  I wonder if [EE](http://ee.co.uk/) has the facility to send SMS messages ... oh.
 
