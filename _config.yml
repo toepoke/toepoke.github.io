@@ -133,9 +133,4 @@ gems:
 # prose.io configuration
 prose:
   media: "images/posts"
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
+
