@@ -139,31 +139,3 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "comments"
-        field:
-          element: "hidden"
-          value: "true"
-      - name: "date"
-        field:
-          element: "text"
-          label: "date"
-          value: "2009-10-18 22:10:00"
-      - name: "excerpt"
-        field:
-          element: "text"
-          label: "excerpt"
-          value: ""
-      - name: "tags"
-        field: 
-          element: "multiselect"
-          label: "Add Tags"
-          options:
-            - name: "c#"
-              value: "c#"
-            - name: "code"
-              value: "code"
-      - name: "cover_image"
-        field: 
-          element: "text"
-          label: "Cover Image (filename)"
-          value: ""
