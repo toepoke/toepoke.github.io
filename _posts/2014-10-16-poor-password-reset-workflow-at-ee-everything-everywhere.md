@@ -1,12 +1,12 @@
 ---
-published: true
+layout: post
 title: "Poor password reset workflow @ee"
 date: 2014-10-15 18:00:00
 tags: 
   - security
   - rants
 comments: true
-cover_image: "toepoke-on-tablet.jpg"
+cover_image: toepoke-on-tablet.jpg
 excerpt: "Poor reset password workflow @ee"
 author: 
   name: fJ
