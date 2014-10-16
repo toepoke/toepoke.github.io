@@ -46,7 +46,7 @@ Reset password? Eh? I was expecting to put my registered e-mail address in so th
 
 And sure enough I can enter a new password and it's saved against my account:
 
-<img src="/images/posts/2014-10-16-step-4" alt="password change confirmation" title="password change confirmation" />
+<img src="/images/posts/2014-10-16-step-4.jpg" alt="password change confirmation" title="password change confirmation" />
 
 ## So what's the problem?
 I'm sure you see where I'm going with this one, but just in case:
