@@ -16,7 +16,7 @@ author:
   image: fj.png
 ---
 
-# Poor Password Reset Workflow @ee
+# Poor Password Reset Workflow @ee 
 Like [pretty much everyone](http://www.rferl.org/content/report-says-75-percent-of-worlds-population-have-mobile-phones/24648234.html) these days I have a mobile phone. My network provider is _currently_  ~~[Orange](http://www.orange.co.uk/)~~ [Everything Everywhere (EE)](http://ee.co.uk/) in the UK.
 
 As part of my drive to have [just one password]({% post_url 2014-06-07-living-with-a-password-manager-in-the-real-world %}) I wanted to change the password on my account. EE have a nice website and the process was quite straightforward. The outcome however was quite shocking.  Let's take a look at why.
