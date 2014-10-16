@@ -60,4 +60,3 @@ The solution is quite simple:
 3. Expire it after 2 hours if it hasn't been used.
 
 Alternatively there's this new thing called [2-factor authentication](http://lifehacker.com/5938565/heres-everywhere-you-should-enable-two-factor-authentication-right-now) where your provider can SMS a unique code to your mobile phone.  I wonder if [EE](http://ee.co.uk/) has the facility to send SMS messages ... oh.
-
