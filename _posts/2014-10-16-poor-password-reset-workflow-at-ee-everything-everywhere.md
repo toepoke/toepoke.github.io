@@ -1,7 +1,7 @@
 ---
 published: true
-title: ""
-date: {}
+title: "Poor password reset workflow @ee"
+date: 2014-10-15 18:00:00
 tags: 
   - security
   - rants
