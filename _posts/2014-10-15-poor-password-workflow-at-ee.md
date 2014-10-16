@@ -6,7 +6,7 @@ tags:
   - security
   - rants
 comments: true
-cover_image: toepoke-on-tablet.jpg
+cover_image: 2014-10-16-ee-password-change.jpg
 excerpt: "Poor reset password workflow @ee"
 author: 
   name: fJ
