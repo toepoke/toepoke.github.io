@@ -1,6 +1,5 @@
 # Theme from : http://jekyllthemes.org/themes/incorporated/
 
-
 inc:
   # Blog Information
   title:        "fJ"
@@ -33,7 +32,6 @@ inc:
     facebook:   false
     gplus:      false
     hn:         false
-    
   
  # Analytics     
   analytics:
@@ -136,27 +134,6 @@ gems:
 prose:
   media: "images/posts"
   metadata:
-    author:
-      - name: "name"
-        field:
-          element: "hidden"
-          value: "fJ"
-      - name: "twitter"
-        field:
-          element: "hidden"
-          value: "toepoke_co_uk"
-      - name: "gplus"
-        field:
-          element: "hidden"
-          value: "toepokeCoUk"
-      - name: "bio"
-        field:
-          element: "hidden"
-          value: "Founder, developer, tea maker"
-      - name: "image"
-        field:
-          element: "hidden"
-          value: "fj.png"
     _posts:
       - name: "layout"
         field:
