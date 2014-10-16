@@ -49,7 +49,7 @@ And sure enough I can enter a new password and it's saved against my account:
 <img src="/images/posts/2014-10-16-step-4.jpg" alt="password change confirmation" title="password change confirmation" />
 
 ## So what's the problem?
-I'm sure you see where I'm going with this one, but just in case:<br/>
+I'm sure you see where I'm going with this one, but just in case:<br/><br/>
 - I login with my mobile telephone number - it's not like everyone in my contacts list knows what this is ... oh ...<br/>
 - I'm also asked for a CAPTCHA [which makes things more secure](http://captcha.com/articles/can-captcha-be-broken.html) ... oh ...<br/>
 - Fortunately they also ask for a secret question - nobody is going to know the answer to that ... [except anyone on facebook]({% post_url 2014-06-10-security-questions-and-social-media %}) ... oh ...<br/>
