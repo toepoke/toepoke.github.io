@@ -1,5 +1,0 @@
-# Disabled CNAME setting due to SSL problem 
-#   - It's a GitHub.com SSL certificate, but running over the blog.toepoke.co.uk domain
-#   - Naturally this causes issues!
-# blog.toepoke.co.uk
-
