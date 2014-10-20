@@ -60,7 +60,7 @@ The solution is quite simple:<br/>
 2. Only allow the reset link to be used once.<br/>
 3. Expire it after 2 hours if it hasn't been used.<br/>
 
-Alternatively there's this new thing called [2-factor authentication](http://lifehacker.com/5938565/heres-everywhere-you-should-enable-two-factor-authentication-right-now) where your provider can SMS a unique code to your mobile phone.  I wonder if [EE](http://ee.co.uk/) has the facility to send SMS messages ... oh.
+Alternatively there's this new thing called [2-step verification](https://www.google.com/landing/2step/) where your provider can SMS a unique code to your mobile phone.  I wonder if [EE](http://ee.co.uk/) has the facility to send SMS messages ... oh.
 
 
 
