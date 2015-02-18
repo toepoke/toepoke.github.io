@@ -2429,7 +2429,7 @@ article {
 }
 
 article .container>header,article .container>section,article .container>footer {
-  margin: 0 8em
+  margin: 0 4em
 }
 
 article .social {

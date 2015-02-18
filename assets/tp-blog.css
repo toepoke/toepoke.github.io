@@ -1,0 +1,26 @@
+/*FJ Overrides of main.css*/
+article pre {
+	padding: 0;
+	margin: 0;
+}
+.strike {
+	text-decoration: line-through;
+}
+article .container>header,article .container>section,article .container>footer {
+  margin: 0 4em
+}
+.g-chart {
+	margin-top: 1em;	/* counters the [above] paragraph margin */
+	margin-bottom: 2em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	border: solid 1px silver;
+}
+
+.sk-spinner {
+	/* make it look more like the chart size when loading */
+	margin-top: 4em !important;
+	margin-bottom: 4em !important;	
+}
+		
