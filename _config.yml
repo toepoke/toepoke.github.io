@@ -1,3 +1,9 @@
+# For troubleshooting GitHub pages, see 
+# http://erictrinh.com/blog/jekyll-and-gh-pages/
+safe: true
+lsi: false
+source: .
+
 # Theme from : http://jekyllthemes.org/themes/incorporated/
 
 inc:
