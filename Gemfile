@@ -1,7 +1,7 @@
 # FJ: 09/02/15 - Issue with httpS://rubygems.org so made it use non SSL version for now
 source 'http://rubygems.org'		
 gem 'github-pages'
-gem 'jekyll-assets'
+# gem 'jekyll-assets'
 gem 'jemoji'
 
 
