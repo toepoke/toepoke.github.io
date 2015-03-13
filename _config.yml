@@ -34,15 +34,17 @@ inc:
   
   # Sharing settings
   sharing:
-    twitter:    false
-    facebook:   false
-    gplus:      false
+    twitter:    
+      via:      toepoke_co_uk
+    facebook:   true
+    gplus:      true
     hn:         false
   
  # Analytics     
   analytics:
     google: true # Add tracking code in _includes/_google-analytics.html
       
+  
       
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
