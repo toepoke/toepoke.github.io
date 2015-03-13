@@ -4,11 +4,7 @@ layout: post
 title: "Outlook.  Where is my folder?"
 # subtitle: "What's in the box"
 date: 2014-08-18 19:00:00
-tags: 
-- techie-stuff
-- tips
-- office
-- rants
+tags: [techie-stuff, tips, office, rants]
 comments: true
 cover_image: city-conference-1984.jpg
 

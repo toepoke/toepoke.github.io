@@ -4,12 +4,7 @@ layout: post
 title: "Typed lists in application configuration files"
 # subtitle: "What's in the box"
 date: 2014-07-30 17:00:00
-tags: 
-- techie-stuff
-- tips
-- development
-- c#
-- configuration
+tags: [techie-stuff, tips, development, c-sharp, configuration]
 comments: true
 cover_image: bluebells.jpg
 

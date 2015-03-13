@@ -4,8 +4,7 @@ layout: post
 title: "Simple workaround for no Start Menu in Windows 8"
 # subtitle: "What's in the box"
 date: 2013-04-03 19:54:06
-tags: 
-- techie-stuff
+tags: [techie-stuff]
 comments: true
 cover_image: bluebells.jpg
 

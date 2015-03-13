@@ -4,8 +4,7 @@ layout: post
 title: "Fantasy League, 2014 !"
 # subtitle: "What's in the box"
 date: 2014-07-19 07:59:00
-tags: 
-- fun
+tags: [fun]
 comments: true
 cover_image: football-right.jpg
 

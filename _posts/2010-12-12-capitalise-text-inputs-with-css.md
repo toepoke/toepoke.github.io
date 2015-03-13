@@ -5,11 +5,7 @@ tumblr_url: http://toepoke.tumblr.com/post/43724086506/capitalise-text-inputs-wi
 title: "Capitalise text inputs with css"
 # subtitle: "What's in the box"
 date: 2010-12-12 12:31:00
-tags: 
-- css
-- code
-- development
-- techie-stuff
+tags: [css, code, development, techie-stuff]
 comments: true
 cover_image: bluebells.jpg
 

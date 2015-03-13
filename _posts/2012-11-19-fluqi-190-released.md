@@ -5,9 +5,7 @@ tumblr_url: http://toepoke.tumblr.com/post/43724055189/fluqi-190-released
 title: "Fluqi 1.9.0 released"
 # subtitle: ""
 date: 2012-11-19 18:34:00
-tags: 
-- techie-stuff
-- fluqi
+tags: [techie-stuff, fluqi]
 comments: true
 cover_image: bluebells.jpg
 

@@ -4,9 +4,7 @@ layout: post
 title: "Emailing event reminders in Outlook"
 # subtitle: "What's in the box"
 date: 2013-03-06 13:20:00
-tags: 
-- techie-stuff
-- tips
+tags: [techie-stuff, tips]
 comments: true
 cover_image: bluebells.jpg
 

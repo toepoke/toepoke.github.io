@@ -5,9 +5,7 @@ tumblr_url: http://toepoke.tumblr.com/post/43724103189/storing-external-config-f
 title: "Config file storage in ASP.NET"
 # subtitle: "What's in the box"
 date: 2010-04-25 14:00:00
-tags: 
-- config
-- deployment
+tags: [config, deployment]
 comments: true
 cover_image: cityscape.jpg
 

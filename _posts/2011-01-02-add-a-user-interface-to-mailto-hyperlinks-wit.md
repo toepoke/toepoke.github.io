@@ -5,12 +5,7 @@ tumblr_url: http://toepoke.tumblr.com/post/43724083569/add-a-user-interface-to-m
 title: "Custom UI for e-mail hyperlinks"
 # subtitle: "What's in the box"
 date: 2011-01-02 17:25:00
-tags: 
-- code
-- development
-- jquery
-- jquery-ui
-- techie-stuff
+tags: [code, development, jquery, jquery-ui, techie-stuff]
 comments: true
 cover_image: bluebells.jpg
 

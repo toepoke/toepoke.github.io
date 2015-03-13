@@ -5,11 +5,7 @@ tumblr_url: http://toepoke.tumblr.com/post/43724065017/tags-c-code-techie-stuff-
 title: "Enumerations and extension methods"
 # subtitle: "What's in the box"
 date: 2012-04-19 17:53:00
-tags: 
-- c#
-- code
-- development
-- techie-stuff
+tags: [c-sharp, code, development, techie-stuff]
 comments: true
 cover_image: cityscape.jpg
 

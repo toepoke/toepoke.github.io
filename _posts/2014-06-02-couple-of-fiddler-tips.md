@@ -5,11 +5,7 @@ tumblr_url: http://toepoke.tumblr.com/post/43724104306/simple-example-on-using-f
 title: "Fiddler tips!"
 # subtitle: "Couple of tips when using Fiddler"
 date: 2014-06-02 12:07:00
-tags: 
-- techie
-- debugging
-- fiddler
-- http
+tags: [techie, debugging, fiddler, http]
 comments: true
 cover_image: snow-scene.jpg
 

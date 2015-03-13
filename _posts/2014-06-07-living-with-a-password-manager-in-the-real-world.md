@@ -4,10 +4,7 @@ layout: post
 title: "Password Managers in the real world"
 # subtitle: "Couple of tips when using Fiddler"
 date: 2014-06-07 08:00:00
-tags: 
-- security
-- techie
-- tips
+tags: [security, techie, tips]
 comments: true
 cover_image: locks.jpg
 

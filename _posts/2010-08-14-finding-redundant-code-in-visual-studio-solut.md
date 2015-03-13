@@ -5,12 +5,7 @@ tumblr_url: http://toepoke.tumblr.com/post/43724097127/finding-redundant-code-in
 title: "Find redundant code ..."
 # subtitle: "What's in the box"
 date: 2010-08-14 12:05:00
-tags: 
-- c#
-- vb.net
-- code
-- development
-- tips
+tags: [c-sharp, vb.net, code, development, tips]
 comments: true
 cover_image: cityscape.jpg
 

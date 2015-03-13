@@ -2,9 +2,7 @@
 layout: post
 title: "2014 Survey Results"
 date: 2015-02-09 08:00:00
-tags: 
-  - survey
-  - toepoke
+tags: [survey, toepoke]
 comments: true
 cover_image: football-right.jpg
 excerpt: "2014 Survey Results"

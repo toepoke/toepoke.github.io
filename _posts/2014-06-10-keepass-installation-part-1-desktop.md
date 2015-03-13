@@ -4,10 +4,7 @@ layout: post
 title: "KeePass Desktop Installation"
 # subtitle: "Couple of tips when using Fiddler"
 date: 2014-06-10 08:00:00
-tags: 
-- security
-- techie
-- tips
+tags: [security, techie, tips]
 comments: true
 cover_image: locks.jpg
 
