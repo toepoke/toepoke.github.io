@@ -17,6 +17,7 @@ author:
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
+<strong>*** Updated 18-Mar-15 to include Today and Tomorrow as instructions ***</strong>
 
 # Introduction
 I use Outlook **at lot**, and in particular reminders.  However I have a bit of a blind spot with reminders (mainly because of the window constantly popping up).
@@ -41,7 +42,9 @@ We create the e-mail as normal, with a normal subject line but add a **::** deli
 
 1. Make a brew **:: in 20 minutes**
 2. Set off for the dentist appointment **:: on 23/3/15 at 3pm**
-3. Lunch with someone **:: at 13:00**
+3. Lunch with Fred **:: at 13:00**
+4. Lunch with Wilma **:: today at 1pm**
+5. Lunch with Betty **:: tomorrow at 1pm**
 
 Then fill in the body of the e-mail and **Send** as normal.  Behind the scenes the macro populates the **Delay Delivery** settings as you would expect and the e-mail will quietly sit in your **Outbox** until it's ready to go.
 
