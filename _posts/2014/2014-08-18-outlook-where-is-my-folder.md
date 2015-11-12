@@ -13,13 +13,13 @@ excerpt: "How to find where an e-mail is stored in Outlook"
 author:
   name: fJ
   twitter: toepoke_co_uk
-  gplus: toepokeCoUk 
+  gplus: toepokeCoUk
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
 
 This image has annoyed me for a while.  It appears after you click the **Try searching again in All Mail Items** link when searching your e-mails.
-<img src="/images/posts/2014-08-18-outlook-where-is-my-folder.jpg" width="635" height="323" alt="MS Outlook showing results of a 'Find in Files'" title="MS Outlook showing results of a 'Find in Files'" />
+<img src="/images/posts/2014/2014-08-18-outlook-where-is-my-folder.jpg" width="635" height="323" alt="MS Outlook showing results of a 'Find in Files'" title="MS Outlook showing results of a 'Find in Files'" />
 
 To be fair, **Outlook** is jolly good at finding your e-mails for you (well after the 2003 version).  But I'm quite finicky about storing my e-mails and have quite a deep hierarchy.  
 
@@ -45,9 +45,8 @@ Once installed, usage is much simpler:
 3.	Click the **Developer Tab** and select either:<br/>
 	a)	**WhereAmI** - brings up a dialog box with the path showing, or<br/>
 	b)	**SyncOutlookToMailItemLocation** - which will select the folder in the folder pane:<br/>
-	<img src="/images/posts/2014-08-18-outlook-where-is-my-folder-macro-result.jpg" width="340" height="199" />
-		
+	<img src="/images/posts/2014/2014-08-18-outlook-where-is-my-folder-macro-result.jpg" width="340" height="199" />
+
 And that's basically it.
 
 Hope this helps, until next time!
-

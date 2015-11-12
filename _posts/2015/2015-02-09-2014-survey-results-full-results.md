@@ -7,7 +7,7 @@ comments: false
 draft: true
 cover_image: football-right.jpg
 excerpt: "2014 Survey Results"
-author: 
+author:
   name: fJ
   twitter: toepoke_co_uk
   gplus: toepokeCoUk
@@ -52,4 +52,4 @@ author:
 <div id="another-team" class="sk-spinner sk-spinner-pulse"></div>
 
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-<script type="text/javascript" src="/images/posts/2015-02-09-2014-survey-results.js"></script>
+<script type="text/javascript" src="/images/posts/2015/2015-02-09-2014-survey-results.js"></script>

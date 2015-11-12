@@ -14,7 +14,7 @@ excerpt: "Enhancing the non-javascript user experience with jQuery UI and Fluqi"
 author:
   name: fJ
   twitter: toepoke_co_uk
-  gplus: toepokeCoUk 
+  gplus: toepokeCoUk
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
@@ -25,11 +25,11 @@ I built [Fluqi](http://fluqi.apphb.com/) because I grew tired of typing out the 
 
 For instance we have a screen showing matches that are coming in the future, and whether the user has said they're playing or not.  With JavaScript active the user sees this:
 
-<img class="img-center" src="/images/posts/2012-02-27-fluqi-with-javascript.png" alt="" />
+<img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-with-javascript.png" alt="" />
 
 As you can see, the screenshot shows a [tab widget](http://jqueryui.com/demos/tabs/) with an [accordion widget](http://jqueryui.com/demos/accordion/) inside each tab.  [toepoke](https://toepoke.co.uk) was built from the ground up to be [progressive](http://en.wikipedia.org/wiki/Progressive_enhancement) so the site is still usable to people with JavaScript disabled.  So without JavaScript, the same screen looks like this:
 
-<img class="img-center" src="/images/posts/2012-02-27-fluqi-without-javascript.png" alt="" />
+<img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-without-javascript.png" alt="" />
 
 It's not very pretty, but it is still useable.
 
@@ -40,18 +40,15 @@ When developing [Fluqi](http://fluqi.apphb.com/) one thing I wanted to do was to
         .Rendering
             .SetRenderCSS(true)
          .Finish()
-    ; 
+    ;
 {% endhighlight %}
- 
-The important part here is **SetRenderCSS(true)**.  This tells [Fluqi](http://fluqi.apphb.com/) to draw the CSS classes jQuery UI uses under the hood, which normally are added through JavaScript (but obviously don't when JavaScript is disabled).  
+
+The important part here is **SetRenderCSS(true)**.  This tells [Fluqi](http://fluqi.apphb.com/) to draw the CSS classes jQuery UI uses under the hood, which normally are added through JavaScript (but obviously don't when JavaScript is disabled). 
 
 The result now looks like this:
 
-<img class="img-center" src="/images/posts/2012-02-27-fluqi-without-javascript-2.png" alt="" />
+<img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-without-javascript-2.png" alt="" />
 
 As we can see, there's quite an improvement.  The tab widget still _looks_ like a tab, as do the accordion.  Naturally the tabs and accordion widgets won't behave as such as JavaScript is off, but it's a lot clearer to the user visually what's going on.
 
 Please note however that there are some areas of the [jQuery UI](http://jqueryui.com) website which advise against adding the CSS classes to your mark-up (which is what the **SetRenderCSS(true)** method does), however I haven't found any problems in doing this so far.  So as always, test it before going into production :).
-
-
-

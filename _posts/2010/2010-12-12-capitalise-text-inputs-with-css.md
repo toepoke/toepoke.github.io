@@ -14,7 +14,7 @@ excerpt: "Enhancing the non-javascript user experience with jQuery UI and Fluqi"
 author:
   name: fJ
   twitter: toepoke_co_uk
-  gplus: toepokeCoUk 
+  gplus: toepokeCoUk
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
@@ -33,7 +33,7 @@ Thankfully I thought a little bit more and remembered the [text-transform](https
 
 Turns out it works quite well, and the above works under most of the modern browsers.  Tested and works in Chrome 7,IE 8, FF 3.6, Safari 5, but sadly not Opera 10.  Of course the text-transform property is an aesthetic effect, so I can live with it not working in Opera. 
 
-<img class="img-center" src="/images/posts/2010-12-12-capitalise-text-inputs-with-css.png" alt="" />
+<img class="img-center" src="/images/posts/2010/2010-12-12-capitalise-text-inputs-with-css.png" alt="" />
 
 Also bear in mind if the user enters their name in lowercase, their name will be in lowercase when the form is posted to the server, so you'll still need to capitalise on the server-side.  Something like the following C# string extension should do the trick. (or see [totitle](http://msdn.microsoft.com/en-us/library/system.globalization.textinfo.totitle) ... as kindly pointed at by Maarten van der Lee below):
 
@@ -56,4 +56,3 @@ Also bear in mind if the user enters their name in lowercase, their name will be
 You can see the above in action on our [sign-up page](http://toepoke.co.uk/user.aspx/create). Naturally this can be extended to use the uppercase and lowercase text-transform rules (uppercase is quite useful for postcodes too).
 
 Hope this proves useful for someone.
-

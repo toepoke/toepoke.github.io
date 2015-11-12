@@ -66,7 +66,7 @@ With our database setup and ready for [syncing](https://db.tt/s4rtqKa) there are
 # Usage
 
 Once you've setup your **Master password** you're prompted with the main **KeePass** screen:
-<img src="/images/posts/2014-06-10-desktop-install-keypass-screen.png" />
+<img src="/images/posts/2014/2014/2014-06-10-desktop-install-keypass-screen.png" />
 The left hand pane shows categories for various online services, internet sites, eMail services, etc.  You can add further groups as you gain more familiarity with the tool.  
 
 The right hand side shows website in the current category; all straight-forward stuff.
@@ -83,7 +83,7 @@ I'm going to add an entry to [our favourite website for organising football](htt
   * Some websites are choosy about what passwords can be used – click the **Generate a random password** button to apply the _rules_ the website expects.
 4. Click **OK**
 5. Hit **CTRL+S** to save to the **KeePass** secure database
-<img src="/images/posts/2014-06-10-desktop-install-add-new-entry.png" />
+<img src="/images/posts/2014/2014-06-10-desktop-install-add-new-entry.png" />
 
 ## Logging into websites
 
@@ -92,7 +92,7 @@ A vital part to the success of a password manager is how easy is it to use in th
 ### Simple
 
 The simplest method is via the **Auto-Type** feature. This is the preferred method, but sadly doesn't work with all websites.  I've added an entry for the [bbc](http://bbc.co.uk/) website in this instance.
-<img src="/images/posts/2014-06-10-desktop-install-edit-entry.png" />
+<img src="/images/posts/2014/2014-06-10-desktop-install-edit-entry.png" />
 
 1. Hit **CTRL+ALT+K** to bring the **KeePass** application window into focus.
 2. Select the **bbc.co.uk** entry and hit **CTRL+U** to open [bbc.co.uk](http://bbc.co.uk) in your browser.
@@ -140,7 +140,7 @@ Some websites don't play well with **KeePass** at all!  For these we're reduced 
 <p id="auto-clear" style="margin-left: 20px; font-size: 0.75em">
 <strong>*</strong> KeePass has a nifty feature where the password is only kept in the clipboard for a set period of time.  In the status bar, you'll see a countdown of how long you have left to paste it.
 <br/>
-<img src="/images/posts/2014-06-10-desktop-install-clipboard-countdown.png" />
+<img src="/images/posts/2014/2014-06-10-desktop-install-clipboard-countdown.png" />
 <br/>
 This timeout can be configured through <strong>Tools &gt; Options &gt; Security &gt; Clipboard auto-clear time</strong>
 </p>

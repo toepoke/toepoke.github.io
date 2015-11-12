@@ -14,7 +14,7 @@ excerpt: "Approach for finding redundant code in your .NET codebase"
 author:
   name: fJ
   twitter: toepoke_co_uk
-  gplus: toepokeCoUk 
+  gplus: toepokeCoUk
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
@@ -33,7 +33,7 @@ I figured typically I'm commenting out multiple lines of (C#) code, along the li
 // }
 {% endhighlight %}
 
-So all we need to do is search for **//{** or **// {** or basically **//** followed by anything with **{** at some point afterwards. Sounds like a regular expression search to me. 
+So all we need to do is search for **//{** or **// {** or basically **//** followed by anything with **{** at some point afterwards. Sounds like a regular expression search to me.
 
 Ordinarily my ability to build a regular expression from scratch extends to [this](http://www.google.co.uk/search?q=%22regular+expression+for+validating+email+addresses%22). But thankfully even I can cope this one!
 
@@ -49,7 +49,7 @@ So if you bob (:b)*(//)+([a-zA-Z0-9])*\{ into the Visual Studio **Find In Files*
 
 C#
 --
-<img class="img-center" src="/images/posts/2010-08-14-find-redundant-code-c-sharp.jpg" alt="" />
+<img class="img-center" src="/images/posts/2010/2010-08-14-find-redundant-code-c-sharp.jpg" alt="" />
 
 
 VB.NET
@@ -57,5 +57,3 @@ VB.NET
 <img class="img-center" src="/images/posts/2010-08-14-find-redundant-code-vb.jpg" alt="" />
 
 Well I've tried (the C# version) on the [toepoke](https://toepoke.co.uk) codebase and found **158** hits which on the up side means it's probably working, on the downside I've been a naughty boy!
-
-

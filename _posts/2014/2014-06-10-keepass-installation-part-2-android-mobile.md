@@ -64,7 +64,7 @@ There are two methods you can use to log into websites with **KeePass2Android**,
 
 As the website is loading you will see 3 notifications appear at the top of your device:
 
-<img src="/images/posts/2014-06-10-mobile-install-notification.jpg" />
+<img src="/images/posts/2014/2014-06-10-mobile-install-notification.jpg" />
 
 1. **Entry is available through KP2A Keyboard**
 2. **Select to copy username to clipboard**
@@ -73,7 +73,7 @@ As the website is loading you will see 3 notifications appear at the top of your
 ## KP2A Keyboard method
 Option **1** replaces your current keyboard with the **Keypass2Android** keyboard.  This makes life a lot easier when entering usernames and passwords as **Keypass2Android** is integrated into the keyboard.
 
-<img src="/images/posts/2014-06-10-mobile-install-android2keepass-keyboard.jpg" />
+<img src="/images/posts/2014/2014-06-10-mobile-install-android2keepass-keyboard.jpg" />
 
 However you lose the default [Google Swype-esk](http://gizmodo.com/google-has-its-own-swype-like-keyboard-app-511535898) keyboard (or constantly have to flip between the two).
 

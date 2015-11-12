@@ -15,7 +15,7 @@ excerpt: "Simple workaround for no <strong>Start Menu</strong> in Windows 8"
 author:
   name: fJ
   twitter: toepoke_co_uk
-  gplus: toepokeCoUk 
+  gplus: toepokeCoUk
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
@@ -29,7 +29,7 @@ I’m not a huge fan of adding lots of little apps to my system as it leads to n
 Besides I only want it for a short time until I pin all my regular applications to the taskbar.  So here’s a quick tip you may also find useful.
 
 1. Right click on the **Taskbar** and select **Toolbars** > **New Toolbar**
-<img src="/images/posts/2013-04-03-windows-8-start-menu.png">
+<img src="/images/posts/2013/2013-04-03-windows-8-start-menu.png">
 2. In the resulting dialog, navigate to your **Programs** folder, which will be something like:
 <br/>**C:\ProgramData\Microsoft\Windows\Start Menu\Programs**
 3. You should now have a menu **Toolbar** marked **Programs**

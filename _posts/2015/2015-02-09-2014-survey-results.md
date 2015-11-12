@@ -124,4 +124,4 @@ In conclusion I think the survey has been a worthwhile exercise.  It's helped me
 If there's anything you'd like to add, or anything you think should be covered in the future, please add a comment, or <a href="https://toepoke.uservoice.com/forums/36616-general">open a suggestion</a>.
 
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-<script type="text/javascript" src="/images/posts/2015-02-09-2014-survey-results.js"></script>
+<script type="text/javascript" src="/images/posts/2015/2015-02-09-2014-survey-results.js"></script>
