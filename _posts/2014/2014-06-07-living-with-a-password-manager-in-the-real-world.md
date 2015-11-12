@@ -13,7 +13,7 @@ excerpt: "Set yourself the two week password challenge!"
 author:
   name: fJ
   twitter: toepoke_co_uk
-  gplus: toepokeCoUk 
+  gplus: toepokeCoUk
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
@@ -22,7 +22,7 @@ author:
 
 - [They're a good thing](#so-how-did-it-go).
 - It's often quicker than logging into websites manually.
-- [You should use one]({% post_url 2014-06-10-keepass-installation-part-1-desktop %}#introduction).
+- [You should use one]({% post_url /2014/2014-06-10-keepass-installation-part-1-desktop %}#introduction).
 
 ## Introduction
 Passwords. Not a very interesting subject, until your [accounts get hacked](https://uk.news.yahoo.com/celebrity-twitters-hacked--five-other-hacked-accounts-justin-bieber-lady-gaga-britney-spears-160352069.html), then all of a sudden they're _very_ interesting ... for all the wrong reasons.
@@ -35,7 +35,7 @@ Passwords are the bane of the modern internet.  A necessity, but annoying:
 
 Like most people I don't have the time (and let’s be honest, the inclination) to [remember 100+ different passwords](http://www.independent.co.uk/student/student-life/how-to-sherlock-your-degree-the-art-of-building-a-memory-palace-9087779.html).  So we use <strike>bad</strike> alternative methods, for instance:
 
-### Not too bad 
+### Not too bad
 - 3 different passwords.
 - **Level 1** - For websites with limited personal data capture, e.g. [bbc.co.uk](http://bbc.co.uk/) just request a username and password.
 - **Level 2** - For websites with personal data capture, but not financial, e.g. most shopping websites.
@@ -46,7 +46,7 @@ Like most people I don't have the time (and let’s be honest, the inclination) 
 
 Now whilst the method of using 3 passwords is better, we're still *sharing* passwords.  If one of those websites gets hacked I have to change the password on _every single other website in level 3_.
 
-With the victims of hacking becoming [more](http://www.bbc.co.uk/news/technology-24740873) and [more](http://www.bbc.co.uk/news/technology-27517907) [prominent](https://haveibeenpwned.com/PwnedWebsites) I felt I could no longer put off looking at a [password manager](http://en.wikipedia.org/wiki/Password_manager). 
+With the victims of hacking becoming [more](http://www.bbc.co.uk/news/technology-24740873) and [more](http://www.bbc.co.uk/news/technology-27517907) [prominent](https://haveibeenpwned.com/PwnedWebsites) I felt I could no longer put off looking at a [password manager](http://en.wikipedia.org/wiki/Password_manager).
 
 For those unfamiliar, a password manager is akin to a safe into which you place all your valuables (i.e. passwords in this instance), close the door and protect all your passwords with one all encompasing **master password**.  To gain access to a website in the future [you only ever have to remember your **master password**](http://www.troyhunt.com/2011/03/only-secure-password-is-one-you-cant.html).
 
@@ -65,12 +65,12 @@ I had [a look around the market](http://www.pcpro.co.uk/features/380377/password
 2. It's [free](http://www.runnersworld.co.uk/forum/clubhouse/ae-yorkshiremen-really-tight/104780.html).
 3. If you read it wrong, it sounds a little rude <img src="/images/wink.png" alt="wink" title="wink" />
 
-I've also written posts about installing **KeePass** on the [Windows]({% post_url 2014-06-10-keepass-installation-part-1-desktop %}) and [Android]({% post_url 2014-06-10-keepass-installation-part-2-android-mobile %}) platforms.
+I've also written posts about installing **KeePass** on the [Windows]({% post_url /2014/2014-06-10-keepass-installation-part-1-desktop %}) and [Android]({% post_url /2014/2014-06-10-keepass-installation-part-2-android-mobile %}) platforms.
 
 
 ## Being pragmatic
 
-I'm set.  I'm fully committed to trying **KeePass** for 2 weeks.  I've got it [installed on my PC]({% post_url 2014-06-10-keepass-installation-part-1-desktop %}) and [my mobile]({% post_url 2014-06-10-keepass-installation-part-2-android-mobile %}).
+I'm set.  I'm fully committed to trying **KeePass** for 2 weeks.  I've got it [installed on my PC]({% post_url /2014/2014-06-10-keepass-installation-part-1-desktop %}) and [my mobile]({% post_url /2014/2014-06-10-keepass-installation-part-2-android-mobile %}).
 
 Am I going to go through over 10 years of e-mails tracking down all the websites I've used? **No chance!** I need to be realistic about what can be achieved, so the [two week challenge](#the-two-week-challenge) will be run with the following considerations:
 
@@ -100,7 +100,7 @@ Again this calls for a more pragmatic approach, so I'm going to [improve my exis
 3. Web based email services like [gmail](https://mail.google.com/mail/), [hotmail](https://hotmail.co.uk/), etc
 4. [Google](https://accounts.google.com/) account – how many services are tied across that one password?
 5. Any shopping site where you’ve saved your credit card details (including those naughty ones that don’t let you opt out!)
-6. Social services like [twitter](https://twitter.com/toepoke_co_uk), [facebook](https://www.facebook.com/toepoke) and [google+](https://plus.google.com/+ToepokeCoUk/) - often used for logging into other websites, and [expose personal data that can be used to attack other websites]({% post_url 2014-06-10-security-questions-and-social-media %}).
+6. Social services like [twitter](https://twitter.com/toepoke_co_uk), [facebook](https://www.facebook.com/toepoke) and [google+](https://plus.google.com/+ToepokeCoUk/) - often used for logging into other websites, and [expose personal data that can be used to attack other websites]({% post_url /2014/2014-06-10-security-questions-and-social-media %}).
 7. Anything else I'll change as and when required.  If I haven't used a website in a couple of years I'll need to reset the password anyway (I'll have forgotten what it was setup with).
 
 ## Are you still using KeePass?
@@ -109,11 +109,6 @@ How do you think I logged into [my blog](https://help.github.com/articles/using-
 
 
 ## Related articles
-- [KeePass Windows installation]({% post_url 2014-06-10-keepass-installation-part-1-desktop %})
-- [KeyPass Android Mobile installation]({% post_url 2014-06-10-keepass-installation-part-2-android-mobile %})
-- [Website security questions &amp; social media]({% post_url 2014-06-10-security-questions-and-social-media %})
-
-
-
-
-
+- [KeePass Windows installation]({% post_url /2014/2014-06-10-keepass-installation-part-1-desktop %})
+- [KeyPass Android Mobile installation]({% post_url /2014/2014-06-10-keepass-installation-part-2-android-mobile %})
+- [Website security questions &amp; social media]({% post_url /2014/2014-06-10-security-questions-and-social-media %})

@@ -13,14 +13,14 @@ excerpt: "Installing KeePass Password Manager on a Windows desktop"
 author:
   name: fJ
   twitter: toepoke_co_uk
-  gplus: toepokeCoUk 
+  gplus: toepokeCoUk
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
 
 # Introduction
 
-I've been meaning to [start using a password manager](http://keypass.info) for ages.  As I'm [documenting how I'm getting on]({% post_url 2014-06-07-living-with-a-password-manager-in-the-real-world %}) it makes sense to also outline the installation of **KeyPass**.
+I've been meaning to [start using a password manager](http://keypass.info) for ages.  As I'm [documenting how I'm getting on]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %}) it makes sense to also outline the installation of **KeyPass**.
 
 # Download
 
@@ -55,7 +55,7 @@ With our database setup and ready for [syncing](https://db.tt/s4rtqKa) there are
 
 - **Security**
   * Tick **Lock workspace after KeePass inactivity** which I set to **300 seconds** (5 minutes)
-- **Integration** 
+- **Integration**
   * Click **Create Association** - then when you double-click on your database file in Windows Explorer, KeePass will open.
   * Tick **Run KeePass at Windows startup**
 - **Policy**
@@ -132,7 +132,7 @@ Some websites don't play well with **KeePass** at all!  For these we're reduced 
 3. Hit **CTRL+ALT+K** again to bring **KeePass** back into focus.
 4. Hit **CTRL+B** to copy the username to the clipboard
 5. Swap back to the website and hit **CTRL+V** to paste the username
-6. Swap back to **KeePass** (or hit **CTRL+ALT+K**) 
+6. Swap back to **KeePass** (or hit **CTRL+ALT+K**)
 7. Hit **CTRL+C** to copy the password to the clipboard [*](#auto-clear)
 8. Swap back to the website and hit **CTRL+V** to paste the password
 9. Hit the website login button
@@ -157,18 +157,14 @@ For this scenario we can (and should) still use **KeePass** to store a strong ge
   - Click the **Hide password** button (the 3 dots) to quickly show the password.
 OR
 3. Hit **CTRL+H** to toggle viewing passwords for all websites (in a section).
-  
+
 ## Conclusion
 
 Whilst it's great the Internet has become so ubiquitous, but as a consequence it's got the attention of the baddies.  I hope this article has made **KeePass** seem less scarey and encourages you to protect your online life.
 
-If you find this useful, you might want to checkout my [KeyPass on Android]({% post_url 2014-06-10-keepass-installation-part-2-android-mobile %}) article too.
+If you find this useful, you might want to checkout my [KeyPass on Android]({% post_url /2014/2014-06-10-keepass-installation-part-2-android-mobile %}) article too.
 
 ## Related articles
-- [KeyPass Android Mobile installation]({% post_url 2014-06-10-keepass-installation-part-2-android-mobile %})
-- [Password Managers in the real-world]({% post_url 2014-06-07-living-with-a-password-manager-in-the-real-world %})
-- [Website security questions &amp; social media]({% post_url 2014-06-10-security-questions-and-social-media %})
-
-
-
-
+- [KeyPass Android Mobile installation]({% post_url /2014/2014-06-10-keepass-installation-part-2-android-mobile %})
+- [Password Managers in the real-world]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %})
+- [Website security questions &amp; social media]({% post_url /2014/2014-06-10-security-questions-and-social-media %})

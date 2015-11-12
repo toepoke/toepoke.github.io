@@ -13,21 +13,21 @@ excerpt: "Installing the KeePass Password Manager on an Android mobile device"
 author:
   name: fJ
   twitter: toepoke_co_uk
-  gplus: toepokeCoUk 
+  gplus: toepokeCoUk
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
 
 # Introduction
 
-Continuing in [my series of posts]({% post_url 2014-06-07-living-with-a-password-manager-in-the-real-world %}) about [KeyPass](http://keypass.info) - this time, it's installing on [Android](http://www.android.com/]).
+Continuing in [my series of posts]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %}) about [KeyPass](http://keypass.info) - this time, it's installing on [Android](http://www.android.com/]).
 
 # Syncing
 You can use **KeePass2Android** just on your mobile device if you wish.  However mobile devices aren't the best way for dealing with high volumes of data entry, like e-mail addresses, usernames and passwords.
 
 I see the mobile version as a way to log into your websites, rather than a means to set-up better passwords.
 
-In this regard I'll be syncing the database between my [desktop]({% post_url 2014-06-10-keepass-installation-part-1-desktop %}) and my mobile, using [Dropbox](https://db.tt/s4rtqKa).
+In this regard I'll be syncing the database between my [desktop]({% post_url /2014/2014-06-10-keepass-installation-part-1-desktop %}) and my mobile, using [Dropbox](https://db.tt/s4rtqKa).
 
 If you haven't used [Dropbox](https://db.tt/s4rtqKa) before, it's a great little tool for syncronising data between devices via the cloud.
 
@@ -54,7 +54,7 @@ With [Dropbox](https://db.tt/s4rtqKa) installed we can move onto using the [KeyP
 
 # Usage
 
-There are two methods you can use to log into websites with **KeePass2Android**, the setup for each is the same.  We'll use our [bbc.co.uk](https://ssl.bbc.co.uk/id/signin) example [from before]({% post_url 2014-06-10-keepass-installation-part-1-desktop %}#simple):
+There are two methods you can use to log into websites with **KeePass2Android**, the setup for each is the same.  We'll use our [bbc.co.uk](https://ssl.bbc.co.uk/id/signin) example [from before]({% post_url /2014/2014-06-10-keepass-installation-part-1-desktop %}#simple):
 
 - Open the **KeePass2Android** application
 - Enter your passcode if required
@@ -81,7 +81,7 @@ However you lose the default [Google Swype-esk](http://gizmodo.com/google-has-it
 
 If you prefer to keep the default keyboard the copy/paste method may be more suitable for you.
 
-- Drag down the **notification** area and pick **Select to copy username to clipboard** 
+- Drag down the **notification** area and pick **Select to copy username to clipboard**
 - Dismiss the **notification** area out of the way
 - Place focus on the **username** field of you website, and **paste** the username
 - Drag down the **notification** area and pick **Select to copy password to clipboard**
@@ -92,7 +92,6 @@ If you prefer to keep the default keyboard the copy/paste method may be more sui
 The **KeePass2Android** application is unavoidably more _clunky_ than the desktop version, but a small amount of inconvenience for the greater good.
 
 ## Related articles
-- [KeePass Windows installation]({% post_url 2014-06-10-keepass-installation-part-1-desktop %})
-- [Password Managers in the real-world]({% post_url 2014-06-07-living-with-a-password-manager-in-the-real-world %})
-- [Website security questions &amp; social media]({% post_url 2014-06-10-security-questions-and-social-media %})
-
+- [KeePass Windows installation]({% post_url /2014/2014-06-10-keepass-installation-part-1-desktop %})
+- [Password Managers in the real-world]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %})
+- [Website security questions &amp; social media]({% post_url /2014/2014-06-10-security-questions-and-social-media %})

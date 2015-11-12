@@ -13,16 +13,16 @@ excerpt: "Security questions aren't so secret anymore"
 author:
   name: fJ
   twitter: toepoke_co_uk
-  gplus: toepokeCoUk 
+  gplus: toepokeCoUk
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
 
-A short post on my continuing series about [improving your online security]({% post_url 2014-06-07-living-with-a-password-manager-in-the-real-world %}).
+A short post on my continuing series about [improving your online security]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %}).
 
 Bank online?  Does this ring any bells?
 
-    
+
 <form role="form" style="margin: 10px; padding: 10px; font-size: small;border: solid 1px silver;">
   <fieldset>
   <legend>Your Bank (inc.)</legend>
@@ -43,7 +43,7 @@ Bank online?  Does this ring any bells?
 			<option>...</option>
 			<option>9</option>
 		</select>
-		
+
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1"><strong>9th</strong> letter of password</label>
@@ -58,7 +58,7 @@ Bank online?  Does this ring any bells?
 			<option>...</option>
 			<option>9</option>
 		</select>
-		
+
   </div>
   <div class="form-group">
     <label for="sec1">Where were you born?</label>
@@ -73,7 +73,7 @@ Bank online?  Does this ring any bells?
     <input class="form-control" type="password" id="sec3" value="Bacon sarnie and brown sauce ... magic!">
   </div>
 	</fieldset>
-</form> 
+</form>
 
 Before the internet become mainstream [security questions](http://en.wikipedia.org/wiki/Security_question) like **Where were you born** and **What was the name of your first pet** were a perfectly fine way of gaining confidence you are who you say you are.
 
@@ -83,13 +83,13 @@ _You_ might be very careful with [what you share](http://mashable.com/2013/07/09
 
 There is a saving grace however.  Those little questions are basically just more passwords.  There's no reason why you can't just put something completely unrelated there.
 
-If you've been following [my experiment with KeePass]({% post_url 2014-06-07-living-with-a-password-manager-in-the-real-world %}) you might be interested to know that you can store additional data alongside your bank login details.  
+If you've been following [my experiment with KeePass]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %}) you might be interested to know that you can store additional data alongside your bank login details.  
 
 I would suggest using the KeePass random password generator to create a difficult to guess (actually nigh on impossible!) word to use for your _secret answer_.  Simple use the **Tools &gt; Generate Password** and save it alongside your **KeePass** login credentials for the website.
 
 Of course if you need to telephone your bank, you may find it difficult to explain your first pet was called **ZAVFzD8ebAYjqbSnae7n** <img src="/images/wink.png" alt="wink" title="wink" />
 
 ## Related articles
-- [Password Managers in the real-world]({% post_url 2014-06-07-living-with-a-password-manager-in-the-real-world %})
-- [KeePass Windows installation]({% post_url 2014-06-10-keepass-installation-part-1-desktop %})
-- [KeyPass Android Mobile installation]({% post_url 2014-06-10-keepass-installation-part-2-android-mobile %})
+- [Password Managers in the real-world]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %})
+- [KeePass Windows installation]({% post_url /2014/2014-06-10-keepass-installation-part-1-desktop %})
+- [KeyPass Android Mobile installation]({% post_url /2014/2014-06-10-keepass-installation-part-2-android-mobile %})
