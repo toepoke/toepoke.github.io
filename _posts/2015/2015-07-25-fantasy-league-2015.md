@@ -13,7 +13,7 @@ excerpt: "Fantasy League for 2015 season"
 author:
   name: fJ
   twitter: toepoke_co_uk
-  gplus: toepokeCoUk 
+  gplus: toepokeCoUk
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
@@ -30,4 +30,3 @@ With the 2014/15 season upon us, I've re-enabled the league.  If you’d like to
 6. Click **JOIN PRIVATE LEAGUE**.
 
 Hope to see you there!
-
