@@ -4,7 +4,7 @@ layout: base
 {% if page.cover_image %}
 <div class="article-cover">
     <div>
-        <img src="/images/{{ page.cover_image }}" class="image">
+        <img src="/images/cover/{{ page.cover_image }}" class="image">
     </div>
 </div>
 {% endif %}
@@ -37,13 +37,13 @@ layout: base
 				{% endfor %}
 			{% else %}
 				{% assign tags_content = '' %}
-			{% endif %}		
-			
+			{% endif %}
+
 			<p id="post-meta">Posted in {{ tags_content }}</p>
-			
+
             {% include _social.html %}
 		</section>
-		
+
         <footer>
             <address>
                {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
@@ -60,4 +60,3 @@ layout: base
         {% endif %}
     </div>
 </article>
-

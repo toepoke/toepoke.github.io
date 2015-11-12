@@ -18,7 +18,7 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     {% if page.cover_image %}
-			<meta property="og:image" content="{{ site.url }}/images/{{ page.cover_image }}"/>
+			<meta property="og:image" content="{{ site.url }}/images/cover/{{ page.cover_image }}"/>
 			{% if page.main_image %}
 				<meta property="og:image" content="{{ site.url }}/images/{{ page.main_image }}"/>
 			{% endif %}
