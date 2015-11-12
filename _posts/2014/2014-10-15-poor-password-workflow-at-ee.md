@@ -4,7 +4,7 @@ title: "Poor password reset workflow @ee"
 date: 2014-10-15 18:00:00
 tags: [security, rants]
 comments: true
-cover_image: posts/2014-10-16-ee-password-change.jpg
+cover_image: 2014-10-16-ee-password-change.jpg
 excerpt: "Poor reset password workflow @ee"
 author:
   name: fJ
