@@ -1,4 +1,23 @@
 /*FJ Overrides of main.css*/
+h1 {
+	color: #263c4c;
+}
+hr.fancy {
+	border: 0;
+	height: 1px;
+	background-image: linear-gradient(to right, rgba(255, 255, 255, 255), rgba(0,0,0, 0.75), rgba(255, 0, 0, 0));	
+}
+h2 {
+	color: #4E7C9E;
+}
+h3 {
+	color: #6DAFE0;
+}
+.footnote {
+	font-size: small;
+	font-style: italic;
+}
+
 article pre {
 	padding: 0;
 	margin: 0;
@@ -33,3 +52,21 @@ article .container>header,article .container>section,article .container>footer {
 	top: -6px;
 }
 
+table.reminders {
+	width: 100%;
+}
+table.reminders th, td {
+	padding: 0 0.5em 0.5em 0.5em;
+}
+
+table.reminders tr {
+	border-top: solid 1px silver;
+}
+
+table.reminders .col1, table.reminders td:nth-child(1) {
+	border-right: solid 1px silver;
+	width: 25%;
+}
+table.reminders .col2 {
+	width: 75%;
+} 
