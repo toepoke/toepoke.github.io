@@ -1,3 +1,6 @@
+- slug: ag2
+  name: angular2
+
 - slug: checkedui
   name: checkedui
   
@@ -19,6 +22,9 @@
 - slug: development
   name: development
   
+- slug: feature
+  name: feature
+
 - slug: fiddler
   name: fiddler
   
