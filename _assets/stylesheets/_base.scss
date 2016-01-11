@@ -90,7 +90,7 @@ a {
 
 .blog-cover {
     @extend .article-cover;
-    height: 320px;
+    height: 450px;
     background-color:#111;
     background-size:cover;
     background-position:center center;
@@ -103,7 +103,7 @@ a {
         right: 0;
         top: 0;
         bottom:0;
-        background-color:rgba(0,0,0,0.4);
+        background-color:rgba(0,0,0,0.2);
         background-image: linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
         background-image: -o-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
         background-image: -moz-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 100%);
@@ -117,7 +117,7 @@ a {
         	color-stop(0, rgba(0,0,0,0.15)),
         	color-stop(1, rgba(0,0,0,0))
         );
-        padding: 100px 0;
+        padding: 125px 0;
         z-index:10;
 
         a:last-child {
