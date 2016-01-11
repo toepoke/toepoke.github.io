@@ -2161,7 +2161,7 @@ a:hover {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: rgba(0,0,0,0.4);
+  background-color: rgba(0,0,0,0.1);
   background-image: linear-gradient(bottom, rgba(0,0,0,0.15) 0%, transparent 100%);
   background-image: -o-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, transparent 100%);
   background-image: -moz-linear-gradient(bottom, rgba(0,0,0,0.15) 0%, transparent 100%);
