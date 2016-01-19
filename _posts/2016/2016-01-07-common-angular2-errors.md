@@ -118,10 +118,45 @@ The number of times this one has hit me!
 
 Most likely you've neglected to add the child component references to the **directives** declaration. 
 
+
+<hr class="fancy"/>
+## "Component **X** has no route config"
+
+### Problem
+
+This ocurred when I was traversing from one component (**TodoList**) to another (**TodoEdit**).  Here's the code from **TodoList** I'm travelling _from_.
+
+{% highlight javascript %}
+	openEdit(todo: ToDo) {
+		this._router.navigate([
+			"ToDoEdit", {id: todo.id}
+		]);
+	}	
+{% endhighlight %}
+
+But the error was _Component **ListPage** has no route config_ - **ListPage** being the component I'm travelling _from_.
+
+### Fix
+
+The error was indeed to do with my **@RouteConfig** but had nothing to do with **ListPage**.  It was the component being travelled _to_ which was the problem, **ToDoEdit**.
+
+Instead of **ToDoEdit**, I had **TodoEdit** defined in my **@RouteConfig**:
+
+{% highlight javascript %}
+@RouteConfig([
+	{ path: "/", name: "Root", redirectTo: ["List"] },
+	{ path: "/list", name: "List", component: ListPage},
+	{ path: "/edit/:id", name: "TodoEdit", component: ToDoEdit }
+])
+{% endhighlight %}
+
+Lesson here is, check the case of your route configuration <img src="/images/smile.png" alt="smile" title="smile" />
+
+
+<hr class="fancy"/>
 # Epilogue
 
 Granted there aren't many here.  I fully intend to screw up even more than usual and add further findings
 <img src="/images/grin.png" alt="grin" title="grin" />.
 
-<br/>
-<br/>
+<hr class="fancy"/>
