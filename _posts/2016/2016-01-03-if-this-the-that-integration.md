@@ -3,7 +3,7 @@ layout: post
 
 title: "if this then that integration with toepoke.co.uk"
 # subtitle: "What's in the box"
-date: 2016-01-03 09:00:00
+date: 2016-02-06 13:00:00
 tags: [toepoke, feature, ifttt]
 comments: true
 cover_image: you-got-mail.jpg

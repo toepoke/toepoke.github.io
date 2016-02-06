@@ -3,7 +3,7 @@ layout: post
 
 title: "Notifications with if-this-then-that"
 # subtitle: "What's in the box"
-date: 2016-01-03 09:00:00
+date: 2016-02-06 14:00:00
 tags: [toepoke, feature, ifttt]
 comments: true
 cover_image: man-with-can.jpg
