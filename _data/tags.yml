@@ -42,6 +42,9 @@
   
 - slug: http
   name: http
+
+- slug: ifttt
+  name: ifttt
   
 - slug: javascript
   name: javascript

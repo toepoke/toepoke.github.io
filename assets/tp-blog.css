@@ -1,4 +1,8 @@
-/*FJ Overrides of main.css*/
+/*
+	FJ Overrides of main.css
+	 - Ensure you edit assets/tp-blog.css (rather than the generated version)
+
+*/
 h1 {
 	color: #263c4c;
 }
@@ -52,21 +56,35 @@ article .container>header,article .container>section,article .container>footer {
 	top: -6px;
 }
 
-table.reminders {
+table {
 	width: 100%;
+	margin-bottom: 1em;
 }
-table.reminders th, td {
-	padding: 0 0.5em 0.5em 0.5em;
+table th, table td {
+	padding: 0.5em;
 }
 
-table.reminders tr {
+table tr {
 	border-top: solid 1px silver;
 }
 
-table.reminders .col1, table.reminders td:nth-child(1) {
+table .col1, table td:nth-child(1) {
 	border-right: solid 1px silver;
 	width: 25%;
 }
-table.reminders .col2 {
+table .col2 {
 	width: 75%;
 } 
+
+.beta {
+	border: solid 2px #990000;
+	border-radius: 10px;
+	font-style: italic;
+	padding: 1em;
+	margin: 1em;
+}
+
+.fl { float: left; }
+.fr { float: right; }
+.clear { clear: both; }
+.ar { text-align: right; }
