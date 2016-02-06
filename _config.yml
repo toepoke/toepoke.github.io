@@ -65,7 +65,6 @@ encoding:    utf-8
 future:      false
 show_drafts: nil
 limit_posts: 0
-highlighter:    rouge
 
 
 permalink:     pretty

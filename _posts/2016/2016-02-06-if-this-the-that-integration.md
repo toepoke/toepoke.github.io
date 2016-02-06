@@ -143,7 +143,7 @@ If you want to trigger all the [match triggers](#ifttt-triggers) you can use the
 
 ## Season Trigger
 
-You can also use the **#seasons** #tag to trigger when your [season]({% post_url /2016/2016-01-03-seasons %}) finishes.
+You can also use the **#seasons** #tag to trigger when your [season]({% post_url /2016/2016-02-06-seasons %}) finishes.
 
 ## Message Trigger
 
@@ -155,7 +155,7 @@ Of course, this is only the start of what you could do:
 
 - <a href="https://ifttt.com/twitter">Tweet<a/> or <a href="https://ifttt.com/facebook">wall post</a> when the <strong>#invite</strong> is triggered - maybe your followers fancy playing? 
 - Or, send yourself a <a href="https://ifttt.com/sms">text</a> notification when <strong>#player-cancel</strong> is triggered, so you know to make sure you have enough players.
-- Even better [have notifications pushed to your mobile phone!]({% post_url /2016/2016-01-03-notifications-with-ifttt %})
+- Even better [have notifications pushed to your mobile phone!]({% post_url /2016/2016-02-06-notifications-with-ifttt %})
 
 Until next time!<br/>
 Team TP.
