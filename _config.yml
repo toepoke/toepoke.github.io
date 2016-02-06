@@ -69,8 +69,6 @@ highlighter:    pygments
 #highlighter:    rouge
 
 
-relative_permalinks: true
-
 permalink:     pretty
 paginate_path: 'page:num'
 paginate: 5
