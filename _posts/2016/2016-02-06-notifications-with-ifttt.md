@@ -24,7 +24,7 @@ author:
 </p> 
 
 If you haven't used [if-this-then-that](https://ifttt.com) with [toepoke](https://toepoke.co.uk) before, you'll want to 
-look at [setting it up first]({% post_url /2016/2016-02-06-if-this-the-that-integration %}). It's cool, I'll wait ... <img src='/images/grin.png' alt='grin' title='grin' />
+look at [setting it up with toepoke first]({% post_url /2016/2016-02-06-if-this-the-that-integration %}). It's cool, I'll wait ... <img src='/images/grin.png' alt='grin' title='grin' />
 
 ## Installing ifttt application
 
