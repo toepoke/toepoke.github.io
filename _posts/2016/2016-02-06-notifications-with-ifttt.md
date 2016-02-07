@@ -26,7 +26,7 @@ author:
 If you haven't used [if-this-then-that](https://ifttt.com) with [toepoke](https://toepoke.co.uk) before, you'll want to 
 look at [setting it up with toepoke first]({% post_url /2016/2016-02-06-if-this-the-that-integration %}). It's cool, I'll wait ... <img src='/images/grin.png' alt='grin' title='grin' />
 
-## Installing ifttt application
+## Installing ifttt mobile app
 
 First off you'll need to install the if-this-then-that app from either the [iTunes](https://itunes.apple.com/us/app/ifttt/id660944635) or [Google Play](https://play.google.com/store/apps/details?id=com.ifttt.ifttt) app stores.
 Here's how to install it for Android:
