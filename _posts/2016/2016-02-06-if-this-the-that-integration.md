@@ -129,7 +129,7 @@ Whilst trying to organise your next match, [toepoke](https://toepoke.co.uk) will
 
 The **#Tag keyword** is added to the subject of the e-mail we send through to _ifttt_.  This allows your _recipe_ to only respond to certain e-mails.
 
-For instance if you want to add a _quick event_ to your [Google Calendar](https://calendar.google.com), but _only_ when the teams are sent out, you'd set your <strong>Tag</strong> as <strong>#teams</strong> in the <strong>Send IFTTT an email tagged</strong> when setting up your recipe. 
+For instance if you want to add a _quick event_ to your [Google Calendar](https://calendar.google.com), but _only_ when the teams are sent out, you'd set your <strong>Tag</strong> as <strong>#teams</strong> in the <strong>Send IFTTT an email tagged</strong> section when setting up your recipe. 
 
 <div class="g-chart">
 <iframe width="560" height="480" src="https://www.youtube.com/embed/DQDo_zrcVNo" frameborder="0" allowfullscreen></iframe>
