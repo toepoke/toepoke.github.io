@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "if this then that integration with toepoke.co.uk"
+title: "BETA: If this then that integration with toepoke.co.uk"
 # subtitle: "What's in the box"
 date: 2016-02-06 13:00:00
 tags: [toepoke, feature, ifttt]
