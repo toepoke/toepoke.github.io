@@ -1,6 +1,9 @@
 - slug: ag2
   name: angular2
 
+- slug: beta
+  name: beta
+
 - slug: checkedui
   name: checkedui
   

@@ -4,7 +4,7 @@ layout: post
 title: "BETA: If this then that integration with toepoke.co.uk"
 # subtitle: "What's in the box"
 date: 2016-02-06 13:00:00
-tags: [toepoke, feature, ifttt]
+tags: [toepoke, feature, ifttt, beta]
 comments: true
 cover_image: you-got-mail.jpg
 
