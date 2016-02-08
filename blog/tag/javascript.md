@@ -2,5 +2,5 @@
 layout: blog_by_tag
 title: 'Articles by tag: javascript'
 tag: javascript
-permalink: javascript/
+permalink: tags/javascript/
 ---

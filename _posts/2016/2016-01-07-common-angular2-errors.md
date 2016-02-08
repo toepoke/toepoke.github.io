@@ -131,7 +131,7 @@ This ocurred when I was traversing from one component (**TodoList**) to another 
 		this._router.navigate([
 			"ToDoEdit", {id: todo.id}
 		]);
-	}	
+	}	 
 {% endhighlight %}
 
 But the error was _Component **ListPage** has no route config_ - **ListPage** being the component I'm travelling _from_.
