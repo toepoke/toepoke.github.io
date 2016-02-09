@@ -96,7 +96,7 @@ Well; I still have 10 years of websites in my Inbox, so I'd best get started mov
 Again this calls for a more pragmatic approach, so I'm going to [improve my existing passwords](http://keepass.info/help/base/pwgenerator.html) based on how bad it would were a website I'm registered with become compromised.
 
 1. My bank - most importmant for obvious reasons.
-2. Any other websites with financial data, e.g. [PayPal](https://paypal.com/), [eBay](http://ebay.co.uk/) and [Quidco](https://www.quidco.com/referrals/?amcf=1455039389) – why a [cashback](https://www.quidco.com/referrals/?amcf=1455039389) website you may ask? Did you register your [Direct Debit](http://www.directdebit.co.uk/Pages/Home.aspx) details with them?
+2. Any other websites with financial data, e.g. [PayPal](https://paypal.com/), [eBay](http://www.ebay.co.uk/) and [Quidco](https://www.quidco.com/referrals/?amcf=1455039389) – why a [cashback](https://www.quidco.com/referrals/?amcf=1455039389) website you may ask? Did you register your [Direct Debit](http://www.directdebit.co.uk/Pages/Home.aspx) details with them?
 3. Web based email services like [gmail](https://mail.google.com/mail/), [hotmail](https://hotmail.co.uk/), etc
 4. [Google](https://accounts.google.com/) account – how many services are tied across that one password?
 5. Any shopping site where you’ve saved your credit card details (including those naughty ones that don’t let you opt out!)
