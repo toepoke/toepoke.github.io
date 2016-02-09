@@ -67,7 +67,7 @@ show_drafts: nil
 limit_posts: 0
 
 
-permalink:     pretty
+# permalink:     pretty
 paginate_path: 'page:num'
 paginate: 5
 
