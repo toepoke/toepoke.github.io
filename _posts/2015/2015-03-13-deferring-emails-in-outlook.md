@@ -24,7 +24,7 @@ I use Outlook **at lot**, and in particular reminders.  However I have a bit of 
 
 To combat this I only use them for non-essential reminders that don't need doing on a particular day - like cleaning the car; It needs doing *at some point* but there's no pressing deadline for it (or in my case, it's just never <img src="/images/wink.png" alt="wink" title="wink" />).
 
-For more deadline based reminders I use <a href="https://support.office.com/en-in/article/Delay-or-schedule-sending-e-mail-messages-026af69f-c287-490a-a72f-6c65793744ba">deferred e-mails</a> to send myself an e-mail at some point in the future, I tend to pay more attention to my **Inbox**:
+For more deadline based reminders I use <a href="https://support.office.com/en-us/article/Delay-or-schedule-sending-e-mail-messages-026af69f-c287-490a-a72f-6c65793744ba">deferred e-mails</a> to send myself an e-mail at some point in the future, I tend to pay more attention to my **Inbox**:
 
 <img class="img-center" src="/images/posts/2014/2014-03-13-deferred-emails-through-ui.png" width="412" height="312" alt="Deferred e-mail dialog in Outlook" title="Deferred e-mail dialog in Outlook'" />
 
