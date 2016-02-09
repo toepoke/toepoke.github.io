@@ -35,7 +35,7 @@ Turns out it works quite well, and the above works under most of the modern brow
 
 <img class="img-center" src="/images/posts/2010/2010-12-12-capitalise-text-inputs-with-css.png" alt="" />
 
-Also bear in mind if the user enters their name in lowercase, their name will be in lowercase when the form is posted to the server, so you'll still need to capitalise on the server-side.  Something like the following C# string extension should do the trick. (or see [totitle](http://msdn.microsoft.com/en-us/library/system.globalization.textinfo.totitle) ... as kindly pointed at by Maarten van der Lee below):
+Also bear in mind if the user enters their name in lowercase, their name will be in lowercase when the form is posted to the server, so you'll still need to capitalise on the server-side.  Something like the following C# string extension should do the trick. (or see [totitle](https://msdn.microsoft.com/en-us/library/system.globalization.textinfo.totitle) ... as kindly pointed at by Maarten van der Lee below):
 
 {% highlight c# %}
      /// <summary>

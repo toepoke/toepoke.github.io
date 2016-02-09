@@ -75,9 +75,9 @@ Bank online?  Does this ring any bells?
 	</fieldset>
 </form>
 
-Before the internet become mainstream [security questions](http://en.wikipedia.org/wiki/Security_question) like **Where were you born** and **What was the name of your first pet** were a perfectly fine way of gaining confidence you are who you say you are.
+Before the internet become mainstream [security questions](https://en.wikipedia.org/wiki/Security_question) like **Where were you born** and **What was the name of your first pet** were a perfectly fine way of gaining confidence you are who you say you are.
 
-However, with the [rise](https://facebook.com/toepoke) and [rise](https://twitter.com/toepoke_co_uk) of social media I believe they're becoming a frail means of [authentication](http://en.wikipedia.org/wiki/Authentication).
+However, with the [rise](https://facebook.com/toepoke) and [rise](https://twitter.com/toepoke_co_uk) of social media I believe they're becoming a frail means of [authentication](https://en.wikipedia.org/wiki/Authentication).
 
 _You_ might be very careful with [what you share](http://mashable.com/2013/07/09/facebook-privacy-how-to/), on social media, but you have little control over what your friends share, and [their friends share](http://gizmodo.com/5882027/sharing-with-friends-of-friends-on-facebook-exposes-you-to-150000-people).
 

@@ -20,10 +20,10 @@ author:
 
 # Introduction
 
-I've been getting up and running with [Angular 2](http://angular.io/) 
+I've been getting up and running with [Angular 2](https://angular.io/) 
 recently and on the whole I'm liking what I see.  Much, much better than [Angular 1](https://angularjs.org/) I must say!
 
-As with any new framework there's that period where you keep making the same error, [do some research](https://google.co.uk), 
+As with any new framework there's that period where you keep making the same error, [do some research](https://www.google.co.uk), 
 fix it, do the same thing again 2 hours later ... rinse and repeat.
 
 So to help you do reader (and frankly, me) I've been jotting down some common errors I keep seeing

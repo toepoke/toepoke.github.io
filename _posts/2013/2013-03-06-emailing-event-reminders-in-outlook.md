@@ -25,7 +25,7 @@ There’s a few tools for sending an email reminder as well as having the remind
 ## Installation
 All that’s required is a simple macro:
 
-1. Firstly enable the [Developer Tab](http://msdn.microsoft.com/en-us/library/vstudio/bb608625.aspx) in **Outlook**
+1. Firstly enable the [Developer Tab](https://msdn.microsoft.com/en-us/library/vstudio/bb608625.aspx) in **Outlook**
 2. Select **Macros**, then **Macros** again
 3. Click the **Edit** button
 4. Double click on **ThisOutlookSession**

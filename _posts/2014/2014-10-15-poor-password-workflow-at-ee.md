@@ -14,7 +14,7 @@ author:
   image: fj.png
 ---
 
-Like [pretty much everyone](http://www.rferl.org/content/report-says-75-percent-of-worlds-population-have-mobile-phones/24648234.html) these days I have a mobile phone. My network provider is _currently_  <span class="strike">[Orange](http://www.orange.co.uk/)</span> [Everything Everywhere (EE)](http://ee.co.uk/) in the UK.
+Like [pretty much everyone](http://www.rferl.org/content/report-says-75-percent-of-worlds-population-have-mobile-phones/24648234.html) these days I have a mobile phone. My network provider is _currently_  <span class="strike">[Orange](http://ee.co.uk/orange/)</span> [Everything Everywhere (EE)](http://ee.co.uk/) in the UK.
 
 As part of my drive to have [just one password]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %}) I wanted to change the password on my account. EE have a nice website and the process was quite straightforward. The outcome however was quite shocking.  Let's take a look at why.
 
@@ -49,7 +49,7 @@ And sure enough I can enter a new password and it's saved against my account:
 ## So what's the problem?
 I'm sure you see where I'm going with this one, but just in case:<br/><br/>
 - I login with my mobile telephone number - it's not like everyone in my contacts list knows what this is ... oh ...<br/>
-- I'm also asked for a CAPTCHA [which makes things more secure](http://captcha.com/articles/can-captcha-be-broken.html) ... oh ...<br/>
+- I'm also asked for a CAPTCHA [which makes things more secure](https://captcha.com/articles/can-captcha-be-broken.html) ... oh ...<br/>
 - Fortunately they also ask for a secret question - nobody is going to know the answer to that ... [except anyone on facebook]({% post_url /2014/2014-06-10-security-questions-and-social-media %}) ... oh ...<br/>
 
 ## So what's the solution?

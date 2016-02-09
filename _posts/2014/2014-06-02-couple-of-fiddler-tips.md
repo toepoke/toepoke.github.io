@@ -19,7 +19,7 @@ author:
   image: fj.png
 ---
 
-If you do any kind of [REST API](http://en.wikipedia.org/wiki/Representational_state_transfer) or web development there are some [really](https://developer.chrome.com/devtools/docs/network) [useful](chrome-extension://fdmmgilgnpjigdojojpjoooidkmcomcm/index.html) utilities to have in your toolbelt.
+If you do any kind of [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer) or web development there are some [really](https://developer.chrome.com/devtools/docs/network) [useful](chrome-extension://fdmmgilgnpjigdojojpjoooidkmcomcm/index.html) utilities to have in your toolbelt.
 
 Today tips (currently just two, but may expand later) are about the excellent [Fiddler](http://www.telerik.com/fiddler) HTTP debugging tool.
 

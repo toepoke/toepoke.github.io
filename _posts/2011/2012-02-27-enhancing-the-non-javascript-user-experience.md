@@ -21,13 +21,13 @@ author:
 
 As some of you might be aware we recently released the [Fluqi](http://fluqi.apphb.com/) library as open source.  I won't repeat the ins-and-outs, but suffice to say [Fluqi](http://fluqi.apphb.com/) is a set of helper classes for building websites using the excellent [jQuery UI](http://jqueryui.com/) widgets in a fluent manner.
 
-I built [Fluqi](http://fluqi.apphb.com/) because I grew tired of typing out the same HTML mark-up on lots of pages to achieve a similar objective.  I've been making changes to [toepoke](https://toepoke.co.uk) throughout the development of [Fluqi](http://fluqi.apphb.com/) as a [dogfooding exercise](http://en.wikipedia.org/wiki/Eating_your_own_dog_food) and thought I'd share some of that experience.
+I built [Fluqi](http://fluqi.apphb.com/) because I grew tired of typing out the same HTML mark-up on lots of pages to achieve a similar objective.  I've been making changes to [toepoke](https://toepoke.co.uk) throughout the development of [Fluqi](http://fluqi.apphb.com/) as a [dogfooding exercise](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) and thought I'd share some of that experience.
 
 For instance we have a screen showing matches that are coming in the future, and whether the user has said they're playing or not.  With JavaScript active the user sees this:
 
 <img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-with-javascript.png" alt="" />
 
-As you can see, the screenshot shows a [tab widget](http://jqueryui.com/demos/tabs/) with an [accordion widget](http://jqueryui.com/demos/accordion/) inside each tab.  [toepoke](https://toepoke.co.uk) was built from the ground up to be [progressive](http://en.wikipedia.org/wiki/Progressive_enhancement) so the site is still usable to people with JavaScript disabled.  So without JavaScript, the same screen looks like this:
+As you can see, the screenshot shows a [tab widget](http://jqueryui.com/demos/tabs/) with an [accordion widget](http://jqueryui.com/demos/accordion/) inside each tab.  [toepoke](https://toepoke.co.uk) was built from the ground up to be [progressive](https://en.wikipedia.org/wiki/Progressive_enhancement) so the site is still usable to people with JavaScript disabled.  So without JavaScript, the same screen looks like this:
 
 <img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-without-javascript.png" alt="" />
 

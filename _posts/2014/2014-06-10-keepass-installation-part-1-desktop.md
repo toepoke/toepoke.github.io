@@ -91,11 +91,11 @@ A vital part to the success of a password manager is how easy is it to use in th
 
 ### Simple
 
-The simplest method is via the **Auto-Type** feature. This is the preferred method, but sadly doesn't work with all websites.  I've added an entry for the [bbc](http://bbc.co.uk/) website in this instance.
+The simplest method is via the **Auto-Type** feature. This is the preferred method, but sadly doesn't work with all websites.  I've added an entry for the [bbc](http://www.bbc.co.uk/) website in this instance.
 <img src="/images/posts/2014/2014-06-10-desktop-install-edit-entry.png" />
 
 1. Hit **CTRL+ALT+K** to bring the **KeePass** application window into focus.
-2. Select the **bbc.co.uk** entry and hit **CTRL+U** to open [bbc.co.uk](http://bbc.co.uk) in your browser.
+2. Select the **bbc.co.uk** entry and hit **CTRL+U** to open [bbc.co.uk](http://www.bbc.co.uk) in your browser.
 3. Hit **CTRL+ALT+K** again to bring **KeePass** back into focus.
 4. Hit **CTRL+V** to **Perform Auto-Type**.
 

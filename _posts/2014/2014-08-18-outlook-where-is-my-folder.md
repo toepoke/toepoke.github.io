@@ -29,11 +29,11 @@ I know there's something else in *that* folder that I want to look at ... **take
 
 Perhaps it's just me. Perhaps there's a magic way to find out where the folder *actually* lives?
 
-If there is, I don't know it.  Being <a href="http://en.wikipedia.org/wiki/Law_of_the_instrument">a developer</a> I thought I'd try and find a solution in the <a href="http://msdn.microsoft.com/en-us/library/office/ee814736(v=office.14).aspx">Outlook API</a>.  Turns out it's quite straightforward to do with macros.  I've done the hard work, you just need to import the module:
+If there is, I don't know it.  Being <a href="https://en.wikipedia.org/wiki/Law_of_the_instrument">a developer</a> I thought I'd try and find a solution in the <a href="https://msdn.microsoft.com/en-us/library/office/ee814736(v=office.14).aspx">Outlook API</a>.  Turns out it's quite straightforward to do with macros.  I've done the hard work, you just need to import the module:
 
-1.	Show the <a href="http://msdn.microsoft.com/en-us/library/bb608625.aspx">Developer Tab</a> in Outlook.
+1.	Show the <a href="https://msdn.microsoft.com/en-us/library/bb608625.aspx">Developer Tab</a> in Outlook.
 2.	<a href="http://www.extendoffice.com/documents/outlook/1368-outlook-enable-disable-macros.html">Enable macros</a>.
-3.	<a href="https://raw.githubusercontent.com/toepoke/toepoke.github.io.code/master/VBA/Outlook/FolderHelper.bas">Download my **FolderHelper** module</a> and save it on your **Desktop** (or wherever).
+3.	<a href="https://github.com/toepoke/toepoke.github.io.code/blob/master/VBA/Outlook/FolderHelper/FolderHelper.bas">Download my **FolderHelper** module</a> and save it on your **Desktop** (or wherever).
 4.	In **Outlook** select **Developer Tab**, then click the **Visual Basic** button.
 5.	Right-click on **Modules** in the left hand pane, and select **Import**
 6.	Select the **FolderHelper.bas** module downloaded earlier.

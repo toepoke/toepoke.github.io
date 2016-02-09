@@ -22,7 +22,7 @@ Being able to read <a href="https://sites.google.com/site/craigandera/craigs-stu
 
 So why am I writing about it?  Good question! <img src="/images/smile.png" alt="smile" title="smile" />
 
-An aspect of this which hasn't been well covered is when we have a list of configuration items we want to load.  We'll use this <a href="http://msdn.microsoft.com/en-us/library/1xtk877y.aspx">app.config</a> as an illustration:
+An aspect of this which hasn't been well covered is when we have a list of configuration items we want to load.  We'll use this <a href="https://msdn.microsoft.com/en-us/library/1xtk877y.aspx">app.config</a> as an illustration:
 
 {% highlight xml %}
 
@@ -46,7 +46,7 @@ An aspect of this which hasn't been well covered is when we have a list of confi
 
 I won't go over the full explanation of how to use the **XmlSerializerSectionHandler** typed class as <a href="https://sites.google.com/site/craigandera/craigs-stuff/clr-workings/the-last-configuration-section-handler-i-ll-ever-need">Craig already does a great job</a>.  
 
-Firstly we need some C# classes <a href="http://en.wikipedia.org/wiki/Visual_Basic_.NET">(other languages are available)</a> to represent our XML.  So in single form we have:
+Firstly we need some C# classes <a href="https://en.wikipedia.org/wiki/Visual_Basic_.NET">(other languages are available)</a> to represent our XML.  So in single form we have:
 
 {% highlight c# %}
   public class Player {

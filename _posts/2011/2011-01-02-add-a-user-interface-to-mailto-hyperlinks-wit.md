@@ -21,7 +21,7 @@ author:
 
 In an upcoming [toepoke.co.uk](https://toepoke.co.uk) build I've added the ability to e-mail all the players in a match.  Just for simple stuff like arranging lifts, last minute changes, etc.
 
-I didn't want to get into creating a full blown e-mailing system, [there's an app for that](http://mail.google.com/mail) :D.  Instead I simply used a normal [mailto](http://css-tricks.com/snippets/html/mailto-links/) link, which brings up whatever e-mail client is installed.
+I didn't want to get into creating a full blown e-mailing system, [there's an app for that](http://mail.google.com/mail) :D.  Instead I simply used a normal [mailto](https://css-tricks.com/snippets/html/mailto-links/) link, which brings up whatever e-mail client is installed.
 
 Now this works fine if the user has an e-mail client installed, but what if you use web based e-mail client?  
 

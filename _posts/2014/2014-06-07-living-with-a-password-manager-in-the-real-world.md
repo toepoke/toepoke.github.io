@@ -30,14 +30,14 @@ Passwords. Not a very interesting subject, until your [accounts get hacked](http
 Passwords are the bane of the modern internet.  A necessity, but annoying:
 
 - They need to be complex, but memorable, so you don’t write them down.  
-- They need to be [different for every website](http://www.zdnet.com/passwords-rotten-core-not-complexity-but-reuse-7000013019/), but hey, still memorable.  
+- They need to be [different for every website](http://www.zdnet.com/article/passwords-rotten-core-not-complexity-but-reuse/), but hey, still memorable.  
 - Oh, and don’t forget they can’t be predictable either.
 
 Like most people I don't have the time (and let’s be honest, the inclination) to [remember 100+ different passwords](http://www.independent.co.uk/student/student-life/how-to-sherlock-your-degree-the-art-of-building-a-memory-palace-9087779.html).  So we use <strike>bad</strike> alternative methods, for instance:
 
 ### Not too bad
 - 3 different passwords.
-- **Level 1** - For websites with limited personal data capture, e.g. [bbc.co.uk](http://bbc.co.uk/) just request a username and password.
+- **Level 1** - For websites with limited personal data capture, e.g. [bbc.co.uk](http://www.bbc.co.uk/) just request a username and password.
 - **Level 2** - For websites with personal data capture, but not financial, e.g. most shopping websites.
 - **Level 3** - Banks and those pesky shopping websites that insist on saving your credit card details.
 
@@ -46,7 +46,7 @@ Like most people I don't have the time (and let’s be honest, the inclination) 
 
 Now whilst the method of using 3 passwords is better, we're still *sharing* passwords.  If one of those websites gets hacked I have to change the password on _every single other website in level 3_.
 
-With the victims of hacking becoming [more](http://www.bbc.co.uk/news/technology-24740873) and [more](http://www.bbc.co.uk/news/technology-27517907) [prominent](https://haveibeenpwned.com/PwnedWebsites) I felt I could no longer put off looking at a [password manager](http://en.wikipedia.org/wiki/Password_manager).
+With the victims of hacking becoming [more](http://www.bbc.co.uk/news/technology-24740873) and [more](http://www.bbc.co.uk/news/technology-27517907) [prominent](https://haveibeenpwned.com/PwnedWebsites) I felt I could no longer put off looking at a [password manager](https://en.wikipedia.org/wiki/Password_manager).
 
 For those unfamiliar, a password manager is akin to a safe into which you place all your valuables (i.e. passwords in this instance), close the door and protect all your passwords with one all encompasing **master password**.  To gain access to a website in the future [you only ever have to remember your **master password**](http://www.troyhunt.com/2011/03/only-secure-password-is-one-you-cant.html).
 
@@ -59,7 +59,7 @@ So despite the dread at the mind-numbing-banalty of sorting my passwords out, I 
 - Use it religiously for [2 weeks](http://news.sky.com/story/1274201/cyber-attack-to-hit-in-next-two-weeks).
 - After 2 weeks, decide whether to continue ([I did](#so-how-did-it-go)).
 
-I had [a look around the market](http://www.pcpro.co.uk/features/380377/password-managers-are-they-safe-which-is-the-best) and decided I'd run my little challenge with [KeePass](http://keepass.info/), because:
+I had [a look around the market](http://www.alphr.com/features/380377/password-managers-are-they-safe-which-is-the-best) and decided I'd run my little challenge with [KeePass](http://keepass.info/), because:
 
 1. It's open source and [OSI certified](http://keepass.info/help/base/) ... whatever that means <img src="/images/smile.png" alt="smile" title="smile" />
 2. It's [free](http://www.runnersworld.co.uk/forum/clubhouse/ae-yorkshiremen-really-tight/104780.html).
@@ -96,7 +96,7 @@ Well; I still have 10 years of websites in my Inbox, so I'd best get started mov
 Again this calls for a more pragmatic approach, so I'm going to [improve my existing passwords](http://keepass.info/help/base/pwgenerator.html) based on how bad it would were a website I'm registered with become compromised.
 
 1. My bank - most importmant for obvious reasons.
-2. Any other websites with financial data, e.g. [PayPal](https://paypal.com/), [eBay](https://ebay.co.uk/) and [Quidco](http://www.quidco.com/user/861657/1857861/) – why a [cashback](http://www.quidco.com/user/861657/1857861/) website you may ask? Did you register your [Direct Debit](http://www.directdebit.co.uk/Pages/Home.aspx) details with them?
+2. Any other websites with financial data, e.g. [PayPal](https://paypal.com/), [eBay](http://ebay.co.uk/) and [Quidco](https://www.quidco.com/referrals/?amcf=1455039389) – why a [cashback](https://www.quidco.com/referrals/?amcf=1455039389) website you may ask? Did you register your [Direct Debit](http://www.directdebit.co.uk/Pages/Home.aspx) details with them?
 3. Web based email services like [gmail](https://mail.google.com/mail/), [hotmail](https://hotmail.co.uk/), etc
 4. [Google](https://accounts.google.com/) account – how many services are tied across that one password?
 5. Any shopping site where you’ve saved your credit card details (including those naughty ones that don’t let you opt out!)
@@ -105,7 +105,7 @@ Again this calls for a more pragmatic approach, so I'm going to [improve my exis
 
 ## Are you still using KeePass?
 
-How do you think I logged into [my blog](https://help.github.com/articles/using-jekyll-with-pages) to post this article? <img src="/images/wink.png" alt="wink" title="wink" />
+How do you think I logged into [my blog](https://help.github.com/articles/using-jekyll-with-pages/) to post this article? <img src="/images/wink.png" alt="wink" title="wink" />
 
 
 ## Related articles

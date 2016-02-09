@@ -20,7 +20,7 @@ author:
 
 # Introduction
 
-Continuing in [my series of posts]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %}) about [KeyPass](http://keypass.info) - this time, it's installing on [Android](http://www.android.com/]).
+Continuing in [my series of posts]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %}) about [KeyPass](http://keypass.info) - this time, it's installing on [Android](http://www.android.com/).
 
 # Syncing
 You can use **KeePass2Android** just on your mobile device if you wish.  However mobile devices aren't the best way for dealing with high volumes of data entry, like e-mail addresses, usernames and passwords.
@@ -32,7 +32,7 @@ In this regard I'll be syncing the database between my [desktop]({% post_url /20
 If you haven't used [Dropbox](https://db.tt/s4rtqKa) before, it's a great little tool for syncronising data between devices via the cloud.
 
 <p style="margin-left: 20px; font-size: 0.75em">
-If you don't have a <a href="(https://db.tt/s4rtqKa)">Dropbox</a> account, I suggest you <a href="(https://db.tt/s4rtqKa)">head over there</a> and install it on your desktop (it's really easy).
+If you don't have a <a href="https://db.tt/s4rtqKa">Dropbox</a> account, I suggest you <a href="https://db.tt/s4rtqKa">head over there</a> and install it on your desktop (it's really easy).
 <br/><br/>
 Don't worry, I'll be right here when you get back <img src="/images/smile.png" alt="smile" title="smile" />
 </p>

@@ -23,7 +23,7 @@ Whilst making some modifications to [toepoke](https://toepoke.co.uk) last night 
 
 I started off with a statement with too many logical ORs kicking around and thought there must be a better way of expressing what I wanted to do. 
 
-My first thought was to use [Extension methods](http://msdn.microsoft.com/en-us/library/bb383977.aspx) which I've used extensively for making my [queries](http://msdn.microsoft.com/en-us/library/bb425822.aspx) a little more understandable.  Could we use extension methods for the enumerations too?
+My first thought was to use [Extension methods](https://msdn.microsoft.com/en-us/library/bb383977.aspx) which I've used extensively for making my [queries](https://msdn.microsoft.com/en-us/library/bb425822.aspx) a little more understandable.  Could we use extension methods for the enumerations too?
 
 My hunch was it wouldn't work as traditionally you couldn't add additional behaviour to an **Enum**.  However it turns out it's quite straightforward:
 

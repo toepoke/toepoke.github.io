@@ -79,7 +79,7 @@ Another which was split *right down the middle* was the subject of on-line payme
 
 <div id="pay-share" class="sk-spinner sk-spinner-pulse"></div>
 
-The majority of those who would like to pay on-line were drawn to **[PayPal]({% post_url /2015/2015-02-09-2014-survey-results-full-results %}#payment-method)**.  This makes sense as it's been around for a long time and lots of people already use it for <a href="https://ebay.co.uk">eBay</a> rather than the relatively new <a href="https://stripe.com">Stripe</a>.
+The majority of those who would like to pay on-line were drawn to **[PayPal]({% post_url /2015/2015-02-09-2014-survey-results-full-results %}#payment-method)**.  This makes sense as it's been around for a long time and lots of people already use it for <a href="http://ebay.co.uk">eBay</a> rather than the relatively new <a href="https://stripe.com">Stripe</a>.
 
 Sadly having a **[nominal fee]({% post_url /2015/2015-02-09-2014-survey-results-full-results %}#admin-fee)** to go with payments was frowned upon.  Perhaps if I'd phrased the question better and explained that it was to support the running of the website the answers would have been different.
 
