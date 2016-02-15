@@ -45,7 +45,7 @@ it's a great little service for integrating the internet. You can do anything fr
 ## Ifttt Reminder Integration
 
 We recently added the ability to link the ifttt <a href="https://ifttt.com/email">email channel</a> 
-so it can be triggered from <a href="https://toepoke.co.uk/user.aspx/edit#extras">your profile</a>:
+so it can be triggered from <a href="https://toepoke.co.uk/user.aspx/edit#extras" rel="nofollow">your profile</a>:
 
 <img class="img-center" src="/images/posts/2016/2016-01-03-iftt-trigger-email-d.png" width="659" height="343" alt="Setting ifttt trigger e-mails" 
 	title="Setting ifttt trigger e-mails" 
