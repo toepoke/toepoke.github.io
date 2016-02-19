@@ -53,6 +53,7 @@ inc:
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 url:         http://toepoke.github.io
+blog_title:  'Getting the best out of toepoke'
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
