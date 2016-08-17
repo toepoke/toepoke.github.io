@@ -1,14 +1,14 @@
 ---
 layout: post
 
-title: "Fantasy League, 2014 !"
+title: "Fantasy League, 2016 !"
 # subtitle: "What's in the box"
 date: 2014-07-19 07:59:00
 tags: [fun]
 comments: true
 cover_image: football-right.jpg
 
-excerpt: "Fantasy League for 2014 season"
+excerpt: "Fantasy League for 2016 season"
 
 author:
   name: fJ
