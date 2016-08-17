@@ -20,14 +20,14 @@ author:
 
 Been running this the last few years.  No prizes (sorry), just a bit of fun.
 
-With the 2013/14 season upon us, I've re-enabled the league.  If you’d like to join in, simply follow these steps.
+With the 2016/17 season upon us, I've re-enabled the league.  If you’d like to join in, simply follow these steps.
 
 1. Sign-up with [Fantasy Premier League](http://fantasy.premierleague.com).
 2. Click the **LEAGUES** tab.
-3. Click **Join a league**.
-4. Select **Private League**, then **Next**.
-5. When prompted enter the code **179955-50037**
-6. Click **JOIN PRIVATE LEAGUE**.
+3. Click **Create and join new leagues**.
+4. Select **Join a league**, then **Next**.
+5. Select **Join private league**. 
+6. When prompted enter the code **164791-53557**
 
 Hope to see you there!
 
