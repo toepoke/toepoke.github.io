@@ -1,0 +1,74 @@
+---
+layout: base
+---
+{% if page.cover_image %}
+<div class="article-cover">
+    <div>
+        <img src="/images/cover/{{ page.cover_image }}" class="image">
+    </div>
+</div>
+{% endif %}
+<article>
+	
+    <div class="container">
+        <header>
+            <div class="meta">
+                By <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a></address> &mdash;
+                <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+            </div>
+            <h1 class="title">{{ page.title }}</h1>
+            {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+        </header>
+
+        <section>
+            {{ content }}
+			{% if page.tags.size > 0 %}
+				{% capture tags_content %} {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+				{% for page_tag in page.tags %}
+					{% for data_tag in site.data.tags %}
+						{% if data_tag.slug == page_tag %}
+							{% assign tag = data_tag %}
+						{% endif %}
+					{% endfor %}
+					{% if tag %}
+						{% capture tags_content_temp %}{{ tags_content }}<a href="/tags/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+						{% assign tags_content = tags_content_temp %}
+					{% endif %}
+				{% endfor %}
+			{% else %}
+				{% assign tags_content = '' %}
+			{% endif %}
+
+			<p id="post-meta">Posted in {{ tags_content }}</p>
+
+            {% include _social.html %}
+		</section>
+
+
+        <footer>
+						<section class="footnote">					
+							<p>
+								Elevenses started as e-mail of random links on the internet
+								<a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">I've</a>
+								come across.  Going to try blogging them instead.
+							</p>
+							<p>
+								Links are aggregated from numerous sources including the brilliant <a href="http://blog.cwa.me.uk/">Morning Brew</a>, 
+								the awesome <a href="http://tympanus.net/codrops/collective">codrops collective</a> and
+								random stuff I've come across.
+							</p>
+							<p>
+								There is not set timeline of posts, just as and when time permits.
+								Subscribe to the <a href="/feed.xml" title="RSS Feed">RSS Feed</a> to have articles pushed you. 
+							</p>
+						</section>
+            <address>
+               {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
+                <p>Written by <strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
+                <span class="muted">{{ page.author.bio }}</span>
+                </p>
+            </address>
+        </footer>
+
+    </div>
+</article>

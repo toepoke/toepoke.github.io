@@ -25,6 +25,9 @@
 - slug: development
   name: development
   
+- slug: elevenses
+  name: elevenses
+
 - slug: feature
   name: feature
 
