@@ -1,0 +1,88 @@
+---
+layout: elevenses
+
+title: "Elevenses #2"
+date: 2016-12-16 08:00:00
+tags: [elevenses]
+comments: false
+cover_image: elevenses.jpg
+
+excerpt: "Random links from the internet ..."
+
+author:
+  name: fJ
+  twitter: toepoke_co_uk
+  gplus: toepokeCoUk
+  bio: Founder, Developer, tea maker
+  image: fj.png
+---
+
+## Development
+* [Movies API (I think Empire magazine use it)](https://www.themoviedb.org/documentation/api)
+* [Progressive Web Apps checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+* [Frameworks without the framework](https://svelte.technology/blog/frameworks-without-the-framework)
+* [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.juof28rs8)
+* [Face detection using Shape Detection API](https://paul.kinlan.me/face-detection/)
+* [PDFs in JS](https://parall.ax/products/jspdf) - [not sure how this differs to the Mozilla version](https://mozilla.github.io/pdf.js/)
+* [Progressive Web apps analyzer (by Google)](https://github.com/GoogleChrome/lighthouse/blob/master/readme.md)
+* [Payment API](https://developers.google.com/web/updates/2016/07/payment-request) - [more here](https://medium.com/dev-channel/sign-in-and-payment-without-forms-c3da66feb471#.hn8iqg76w)
+* [Excluding the node_modules Folder in Visual Studio WebSite Projects](https://weblog.west-wind.com/posts/2016/Oct/30/Excluding-the-nodemodules-Folder-in-Visual-Studio-WebSite-Projects)
+* [Google's new invisible reCaptcha](https://www.google.com/recaptcha/intro/index.html)
+* [Infinite scrolling ... nice!](https://github.com/jlmakes/scrollreveal/blob/master/README.md)
+* [Build conversation bots with Google Home](https://api.ai/google-assistant/)
+* [JS Offline first DB](https://github.com/pubkey/rxdb/blob/master/README.md)
+* [Autoprefix for Babel (bring in just the plug-ins you need)](https://github.com/babel/babel-preset-env)
+* [Microservices? Please, Don't - debunking myths](https://dzone.com/articles/microservices-please-dont)
+
+## Angular2
+* [Build reusable Angular2 modules](https://github.com/driftyco/ionic-module-template/blob/master/README.md)
+* [Router animations](https://medium.com/google-developer-experts/angular-2-animate-router-transitions-6de179e00204)
+* [Dynamic router guards](http://www.kirjai.com/dynamic-guard-redirects-angular/)
+
+## Design
+* [Visual CSS reference](http://cssreference.io/)
+* [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862)
+* [Pro tips for CSS](https://github.com/AllThingsSmitty/css-protips/blob/master/README.md)
+
+## Performance
+* [When everything's important, nothing is](https://aerotwist.com/blog/when-everything-is-important-nothing-is/)
+
+## Tools
+* [Git plugin showing files that tend to be committed together](https://github.com/anvaka/git-also/blob/master/README.md)
+* [Makes Google Calendar look nicer & launches as a desktop app](https://www.producthunt.com/posts/clean-google-calendar)
+* [Experience Firefox OS on your Android device - dunno why?](https://www.mozilla.org/en-US/firefox/os/)
+* [Markdown monster](http://markdownmonster.west-wind.com/)
+
+## Security
+* [Stop wasting time making the wrong passwords stronger](https://nakedsecurity.sophos.com/2016/11/23/stop-wasting-time-making-the-wrong-passwords-stronger/)
+* [SHA-1 certificates to die in Chrome 56](https://nakedsecurity.sophos.com/2016/11/23/its-the-final-countdown-for-sha-1-ssl-certificates)
+* [Saving passwords in a system - the right way](https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely)
+* [Distributed Visa card hacking](https://www.lovemoney.com/news/61345/visa-hack-debit-credit-card-fraud-scams?source=10000277)
+* [Nasty unpatched vulnerability exposes Netgear routers to easy hacking](http://www.pcworld.com/article/3149554/security/an-unpatched-vulnerability-exposes-netgear-routers-to-hacking.html)
+* [Netgear router remote control bug – what you need to know](https://nakedsecurity.sophos.com/2016/12/14/netgear-router-remote-control-bug-what-you-need-to-know/) 
+* [Uber now collecting location data even after you leave a driver’s car](https://nakedsecurity.sophos.com/2016/12/01/uber-now-collecting-location-data-even-after-you-leave-a-drivers-car/)
+* [New iOS lockscreen bypass renders Activation Lock useless](https://nakedsecurity.sophos.com/2016/12/02/new-ios-lockscreen-bypass-renders-activation-lock-useless/)
+* [For two years, criminals stole sensitive information using malware hidden in individual pixels of ad banners](http://boingboing.net/2016/12/07/for-two-years-criminals-stole.html)
+
+## Misc
+* [Car dashcam thing](https://www.getnexar.com/)
+* [The Story (And Tech) Behind That Awesome Star Wars BB-8 Toy](https://www.wired.com/2015/09/bb8-the-inside-story)
+* [Trying Out The “Serverless” Thing While Bootstrapping My New Company](https://medium.com/@robconery/trying-out-the-serverless-thing-while-bootstrapping-my-new-company-6763a9de7ed#.swm5q2po6)
+* [Cool stuff going in Leeds in December - OK, I'm a bit late with this one](https://leeds-list.com/culture/50-absolutely-unmissable-events-in-leeds-this-month)
+* [Insight into owing an electric car](https://scotthelme.co.uk/driving-an-electric-vehicle-the-nissan-leaf)
+* [No queues, new cash, just get your stuff ... @Amazon GO!](https://www.amazon.com/b?node=16008589011)
+
+## Social / Fun / Cool
+* [NASA Has Released The Largest Image Ever Taken](http://www.inspireactachieve.com/science/nasa-has-released-the-largest-image-ever-taken)
+* [Good idea that!](http://toogoodtogo.co.uk)
+* [Origin story behind Google Analytics - interesting read](https://urchin.biz/urchin-software-corp-89a1f5292999#.qn5nz17ma)
+* [Oculus Rift can play Xbox One games starting next month](http://venturebeat.com/2016/11/22/oculus-rift-can-play-xbox-one-games-starting-next-month)
+* [Christmas fun (for adults and children)](https://sneakyexperience.co.uk)
+* [Google Earth ... in VR!](https://www.producthunt.com/posts/google-earth-vr) - [see also](http://store.steampowered.com/app/348250)
+* [Google Home review](http://mashable.com/2016/11/03/google-home-review/#jn22V5fPiOqg) (think Amazon Echo)
+* [Typing speed test :)](https://www.livechatinc.com/typing-speed-test)
+
+## Lifesyle
+* [Fully vetted cleaning professionals](https://www.handy.com/)
+* [More vetted cleaners](https://hassle.com)
+* [Odd job man stuff](https://www.wearepickle.com/)

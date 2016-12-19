@@ -1,8 +1,8 @@
 ---
 layout: elevenses
 
-title: "Elevenses #?"
-date: 2016-11-16 08:00:00
+title: "Elevenses #2"
+date: 2016-12-16 08:00:00
 tags: [elevenses]
 comments: false
 cover_image: elevenses.jpg
@@ -17,48 +17,33 @@ author:
   image: fj.png
 ---
 
-## Development
+# Development
+* []()
+* []()
+* []()
+
+# Design
+* []()
+* []()
+* []()
+
+# Tools
+* []()
+* []()
+* []()
+
+# Security
 * []()
 * []()
 * []()
 * []()
 
-## Angular2
+# Misc
 * []()
 * []()
 * []()
 
-## Design
-* []()
-* []()
-* []()
-
-## Tools
-* []()
-* []()
-* []()
-
-## Security
-* []()
-* []()
-* []()
-
-## Performance
-* []()
-* []()
-* []()
-
-## Misc
-* []()
-* []()
-* []()
-
-## Social / Fun / Cool
-* []()
-* []()
-* []()
-
-## Lifesyle
+# Social / Fun
 * []()
 * []()
 * []()
