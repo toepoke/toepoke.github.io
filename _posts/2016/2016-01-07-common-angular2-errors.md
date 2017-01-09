@@ -32,7 +32,7 @@ and document the fixes.
 I'll expand as I see more.  Found some too?  Add in the comments and I'll update the post.
 
 <hr class="fancy"/>
-## "Can't bind to 'ngForIn' since it isn't a known native property in X"
+## Can't bind to 'ngForIn' since it isn't a known native property in X
 
 ### Problem
 You have something like this:
