@@ -22,7 +22,7 @@ author:
 * [Useful regular expression patterns](https://projects.lukehaas.me/regexhub/)
 * [In-memory testing using ASP.NET Core](http://josephwoodward.co.uk/2016/12/in-memory-testing-using-asp-net-core)
 * [Styling Web Components Using A Shared Style Sheet](https://www.smashingmagazine.com/2016/12/styling-web-components-using-a-shared-style-sheet/)
-* [Using the power of RxJS and Angular components to <blink> - *good article - more about Rx than adding a blink!*](https://medium.com/@jsayol/using-the-power-of-rxjs-and-angular-components-to-blink-a78b1ab0cf5e#.68zkve5xb)
+* [Using the power of RxJS and Angular components to &lt;blink&gt; - *good article - more about Rx than adding a blink!*](https://medium.com/@jsayol/using-the-power-of-rxjs-and-angular-components-to-blink-a78b1ab0cf5e#.68zkve5xb)
 * [GraphQL: Tips after a year in production](https://hackernoon.com/graphql-tips-after-a-year-in-production-419341db52e3#.uu71etagw)
 * [Beginners guide to Stripe integration](https://remysharp.com/2016/12/23/beginners-guide-to-stripe-integration)
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming *(courtesy of AB)*](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
