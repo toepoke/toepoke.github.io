@@ -23,7 +23,17 @@ author:
 * []()
 * []()
 
+## Cloud
+* []()
+* []()
+* []()
+
 ## Angular2
+* []()
+* []()
+* []()
+
+## Data / APIs
 * []()
 * []()
 * []()
@@ -38,12 +48,12 @@ author:
 * []()
 * []()
 
-## Security
+## Performance
 * []()
 * []()
 * []()
 
-## Performance
+## Security
 * []()
 * []()
 * []()
