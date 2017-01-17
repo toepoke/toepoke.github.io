@@ -17,6 +17,11 @@ author:
   image: fj.png
 ---
 
+## Opinion
+* [Why I struggle with NodeJS](https://dev.to/grahamcox82/why-i-struggle-with-node)
+* []()
+* []()
+
 ## Development
 * []()
 * []()
@@ -28,7 +33,7 @@ author:
 * []()
 * []()
 
-## Angular2
+## JavaScript / Angular2
 * []()
 * []()
 * []()
@@ -58,6 +63,11 @@ author:
 * []()
 * []()
 
+## Testing
+* []()
+* []()
+* []()
+
 ## Misc
 * []()
 * []()
@@ -68,7 +78,12 @@ author:
 * []()
 * []()
 
-## Lifesyle
+## Codepens
+* []()
+* []()
+* []()
+
+## Lifestyle
 * []()
 * []()
 * []()
