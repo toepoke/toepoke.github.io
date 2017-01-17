@@ -1,0 +1,89 @@
+---
+layout: elevenses
+
+title: "Elevenses #?"
+date: 2016-11-16 08:00:00
+tags: [elevenses]
+comments: false
+cover_image: elevenses.jpg
+
+excerpt: "Random links from the internet ..."
+
+author:
+  name: fJ
+  twitter: toepoke_co_uk
+  gplus: toepokeCoUk
+  bio: Founder, Developer, tea maker
+  image: fj.png
+---
+
+## Opinion
+* [Why I struggle with NodeJS](https://dev.to/grahamcox82/why-i-struggle-with-node)
+
+## Development
+* [Technology Radar - thoughtworks](https://www.thoughtworks.com/de/radar/techniques)
+* [Inferno - An extremely fast React-like JavaScript library for building modern user interfaces](https://infernojs.org/)
+* [Selling your git code](https://git.market/)
+* [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
+* [TypeScript with ReactJS](https://medium.com/@shakyShane/hello-world-with-preact-jsx-typescript-6d70cf2ebf01#.ha9p9tv42)
+* [Turn ES5 into ES6 code - *lebab = babel backwards :)*](https://github.com/lebab/lebab)
+* [Code by NASA](https://code.nasa.gov/)
+* [Writing HTML with Accessibility in mind](https://medium.com/@matuzo/writing-html-with-accessibility-in-mind-a62026493412#.mzzh4fpf0) - *[Khan Academy bookmarklet tool is useful too!](http://khan.github.io/tota11y/)*
+* [Getting started with WebGL &amp; three.js](https://www.august.com.au/blog/animating-scenes-with-webgl-three-js/)
+* [React or Vue: Which Javascript UI Library Should You Be Using?](https://medium.com/js-dojo/react-or-vue-which-javascript-ui-library-should-you-be-using-543a383608d#.cntldal8m)
+
+## JavaScript / Angular2
+* [New features of Angular 2.3 - *courtesy of CM*](https://medium.com/@gerard.sans/angular-2-new-features-in-angular-2-3-f2e73f16a09e#.x4rs0jkhr)
+* [Starter packs *- see the related section for more ...*](https://github.com/SamVerschueren/ng2-hello-world-aot-rollup)
+* [Testing Angular Directives with Custom Matchers](https://blog.thoughtram.io/angular/2016/12/27/angular-2-advance-testing-with-custom-matchers.html)
+* [Who said JavaScript was easy?](https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8#.g2mz3yqix)
+* [10 Most Shared JavaScript Scene Posts of 2016](https://medium.com/javascript-scene/10-most-shared-javascript-scene-posts-of-2016-862955855d36#.j983nn2dj)
+* [Angular 2 with code splitting and lazy loading routes](https://github.com/vsavkin/router_lazyloading)
+* [Find useful articles](https://www.hotjs.net/)
+
+## Design
+* [404 Gallery](http://404error.gallery/)
+* [CSS Grid resources](https://github.com/ptcrt/learn-grid)
+* [Codrops 2016 retrospective](https://tympanus.net/codrops2016/) - *The cinema concept still rocks!*
+* [NYC snowglobe, very cool!](http://2017.ronikdesign.com/)
+* [Walking dude](https://chinedufn.github.io/skeletal-animation-system/)
+
+## Tools
+* [Stuff you can say to Google Now](http://ok-google.io/)
+* [SQL Server extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+* [Json Bin](https://jsonbin.org/) - *another little tool by [@rem](https://twitter.com/rem)*
+* [A UI for Docker](https://media-glass.es/portainer-the-ui-for-docker-d067f6335f23#.rieb569t6) - *not used*
+* [How good is your profile picture?](https://www.snappr.co/photo-analyzer/) - *apparently I've got a bad smile :(*
+* [Notify - .gov e-mail and SMS provider beta](https://www.notifications.service.gov.uk/) - *think it's only government departments :(*
+* [Create regular expressions based on inputs](https://runkit.com/npm/regexgen)
+* [Create a change log from git repo history](https://github.com/zeit/release)
+* [Webslides - funky slides &amp; stuff](https://webslides.tv/)
+* [Google RAISR - doing Voodoo magic with images since 2017](http://www.pcmag.com/news/351027/google-raisr-intelligently-makes-low-res-images-high-quality)
+
+## Security
+* [Land Registry e-mail alerting](https://www.gov.uk/guidance/property-alert) *[(useful if someone tries to buy your home!)](https://www.lovemoney.com/news/61895/mortgage-loan-property-fraud-signs-protection-land-registry)*
+* [LastPass now free for multiple devices](http://www.zdnet.com/article/lastpass-brings-free-password-management-to-all-your-devices)
+* [The worst passwords of 2016](http://www.zdnet.com/article/only-yourselves-to-blame-the-worst-passwords-of-2016-are-as-lazy-as-ever/)
+* [Browser autofill phishing](https://github.com/anttiviljami/browser-autofill-phishing)
+* [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
+
+## Misc
+* [30 frames VS 60 frames - which is better?](http://30vs60.com/)
+* [Prepare for 19-Digit Credit Cards](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/november/prepare-for-19-digit-credit-cards/)
+
+## Social / Fun / Cool
+* [Wireless LG levitating speaker defies gravity at the CES 2017](http://www.designboom.com/technology/lg-levitating-speaker-ces-2017-01-03-2017)
+* [Android tweaks](http://www.makeuseof.com/tag/5-hidden-chrome-android-tweaks-need-try/)
+* [View a VR image with every new tab](https://svrf.com/apps/tabs.html)
+* [Before and After](http://www.urb-i.com/before-after-gallery)
+
+## Codepens
+* [Top 100 Pens from 2016](https://codepen.io/2016/popular/pens/)
+* [Just cool! (type some stuff)](https://codepen.io/steveg3003/full/pNqdRq/)
+* [3d-esk credit card](http://codepen.io/robin-dela/full/jVddbq/)
+* [Backlight effect in CSS](http://codepen.io/georgehastings/full/xgwxgo/)
+* [Fonts cup](http://codepen.io/jkantner/full/Bpyzvq/)
+
+## Lifestyle
+* [Find parking spaces near your workplace (or anywhere else for that matter)](https://www.yourparkingspace.co.uk)
+* [Nice summary of chargeback rules with credit &amp; debit cards](http://paullewismoney.blogspot.co.uk/2014/11/money-back-plastic.html)
