@@ -19,72 +19,80 @@ author:
 
 ## Opinion
 * [Why I struggle with NodeJS](https://dev.to/grahamcox82/why-i-struggle-with-node)
-* []()
-* []()
+* [The eternal quandry ...](https://twitter.com/TyRoot/status/826515962677645312?s=09)
+* [10 Lessons When Moving from Waterfall to Agile](http://www.ranorex.com/blog/10-lessons-when-moving-from-waterfall-to-agile/)
 
 ## Development
-* []()
-* []()
-* []()
-* []()
+* [Trunk based development *I'm just leaving that one here :)*](https://trunkbaseddevelopment.com/)
+* [Eventually Consistent: How to Make a Mobile-First Distributed System](https://realm.io/news/eventually-consistent-making-a-mobile-first-distributed-system/)
+* [Google is finally making web apps first-class citizens on Android](http://www.theverge.com/2017/2/3/14497570/google-chrome-add-to-home-screen-web-apps-android-improvements)
+* [The Good, the Bad and the Ugly in Mobile App Subscriptions](https://medium.com/@yuvalkaminka/the-good-the-bad-and-the-ugly-in-mobile-app-subscriptions-fe6b8c0e8b18#.fxh0kf5dn)
+* [Table layouts are back! CSS Grid – Table layout is back. Be there and be square](https://developers.google.com/web/updates/2017/01/css-grid)
+* [Detecting text in an image on the web in real-time](https://paul.kinlan.me/detecting-text-in-an-image/)
 
 ## Cloud
-* []()
-* []()
-* []()
+* [Internet/Cloud v2 - hire supercomputer network](https://golem.network/)
+* [Getting out of the cloud - Privacy Shield (Safe Harbour v2) may no longer be viable](http://blog.koehntopp.info/index.php/228-getting-out-of-the-cloud/)
 
-## JavaScript / Angular2
-* []()
-* []()
-* []()
+## JavaScript / Angular2 / Ionic
+* [Ionic 2 final! *(courtest of CM)*](http://blog.ionic.io/announcing-ionic-2-0-0-final/)
+* [Should you learn Angular 1.x or 2?](https://toddmotto.com/should-you-learn-angular-1-or-angular-2)
+* [Angular decorators](https://toddmotto.com/angular-decorators)
+* [Introduction to Data Binding with MobX](https://appendto.com/2017/01/introduction-to-data-binding-with-mobx/)
+* [Angular in Production](http://blog.mgechev.com/2017/01/17/angular-in-production/)
+* [Angular 4? WT!](http://angularjs.blogspot.co.uk/2016/12/ok-let-me-explain-its-going-to-be.html)
+* [Service worker toolkit](https://googlechrome.github.io/sw-toolbox/)
 
 ## Data / APIs
-* []()
-* []()
-* []()
+* [Collection of public APIs for all sorts of things](https://github.com/abhishekbanthia/Public-APIs)
+* [API for everyone, everywhere, ever ... #kinda](http://pplapi.com/)
+* [API](http://api.windyty.com/) for [Windy TV](https://www.windytv.com/?53.824,-1.684,9)
+* [GDPR is just over a year away – and many firms are nowhere near ready](https://nakedsecurity.sophos.com/2017/01/30/gdpr-is-just-over-a-year-away-and-many-firms-are-nowhere-near-ready/)
 
 ## Design
-* []()
-* []()
-* []()
+* [Don’t Make Me Think – Key Learning Points for UX Design for the Web](https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web)
 
 ## Tools
-* []()
-* []()
-* []()
+* [Code &amp; SQL profiler, very cool :)](http://stackify.com/prefix)
+* [Threaded messages in Slack](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd#.uxmkq3yo1)
+* [Chrome 56 arrives with warning for HTTP password and credit card webpages, faster page reloading](http://venturebeat.com/2017/01/26/chrome-56-arrives-with-warning-for-http-password-and-credit-card-webpages-faster-page-reloading/)
+* [cucumber-electron *(courtesy of PC)*](https://cucumber.io/blog/2017/01/23/announcing-cucumber-electron)
+* [Make your own 3D movies (requires two phones) - looks a bit awesome!](https://camarada.co) *[Quick tutorial illustrating](https://www.youtube.com/watch?v=S-F8SMWtKqE)*
+* [Open source Uber!](http://libretaxi.org/)
+* [Google's automated cars company - first driverless car test on public roads](http://libretaxi.org/)
+* [Compressify - compress video files by upto 60%](https://compressify.herokuapp.com/)
+
+## SQL
+* [Performance of SQL MERGE Vs UPSERT](http://www.sqlservercentral.com/articles/MERGE/103127/)
 
 ## Performance
-* []()
-* []()
-* []()
+* [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist/blob/master/readme.md)
 
 ## Security
-* []()
-* []()
-* []()
-
-## Testing
-* []()
-* []()
-* []()
+* [Android Pattern Lock ‘can be cracked in five attempts’](https://nakedsecurity.sophos.com/2017/01/24/android-pattern-lock-can-be-cracked-in-five-attempts-heres-what-to-do/)
+* [Priceless](https://nakedsecurity.sophos.com/2017/01/06/best-company-name-ever-share-capital-1-name-priceless/)
+* [Cisco WebEx code execution hole – what you need to know](https://nakedsecurity.sophos.com/2017/01/26/cisco-webex-code-execution-hole-what-you-need-to-know/)
+* [What’s the actual cost to a business of a data breach?](https://nakedsecurity.sophos.com/2017/02/02/whats-the-actual-cost-to-a-business-of-a-data-breach/)
+* [Why you shouldn’t trust baby health monitors](https://nakedsecurity.sophos.com/2017/02/01/why-you-shouldnt-trust-baby-health-monitors/)
+* [Monday review – the hot 27 stories of the week (Jan 2017)](https://nakedsecurity.sophos.com/2017/01/30/monday-review-the-hot-27-stories-of-the-week-11/)
+* [Hotel ransomed by hackers as guests locked out of rooms - *sneaky!*](http://www.thelocal.at/20170128/hotel-ransomed-by-hackers-as-guests-locked-in-rooms)
 
 ## Misc
-* []()
-* []()
-* []()
+* [Caching at Reddit](https://redditblog.com/2017/1/17/caching-at-reddit/)
+* [10 lessons when moving from Waterfall to Agile](http://www.ranorex.com/blog/10-lessons-when-moving-from-waterfall-to-agile/)
+* [Google buys Twitter's Fabric](http://www.alphr.com/business/1005189/google-buys-fabric-twitter-s-developer-platform)
 
 ## Social / Fun / Cool
-* []()
-* []()
-* []()
-
-## Codepens
-* []()
-* []()
-* []()
+* [The World’s Biggest Inflatable Obstacle Course Returns to Leeds](https://leeds-list.com/culture/the-worlds-biggest-inflatable-obstacle-course-returns-to-leeds/)
+* [Spinner .. nuff said ...](https://www.google.co.uk/search?q=spinner)
+* [Scary](http://www.thepoke.co.uk/2017/01/29/clip-featuring-donald-trump-joker-terrifying/#.WI5R7-k33Cg.twitter)
+* [Carrie Fisher nails her Star Wars audition](https://twitter.com/SundayBrunchC4/status/813865128651325440)
+* [Gorgeous 8K Timelapse Captures All Four Seasons in Norway](https://petapixel.com/2017/01/27/gorgeous-8k-timelapse-captures-four-seasons-norway)
+* [Cmd Challenge](https://cmdchallenge.com)
+* [gopherize.me](https://gopherize.me)
 
 ## Lifestyle
-* []()
-* []()
-* []()
+* [ZapMap - Map of charging points for electronic cars (UK coverage included)](https://www.zap-map.com)
+* [Stay on a boat](https://www.bedsonboard.com/)
+* [Where to Watch Comedy in Leeds](https://leeds-list.com/culture/where-to-watch-comedy-in-leeds)
 
