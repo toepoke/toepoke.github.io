@@ -2,7 +2,7 @@
 layout: elevenses
 
 title: "Elevenses #6"
-date: 2017-02-00 08:00:00
+date: 2017-02-06 08:00:00
 tags: [elevenses]
 comments: false
 cover_image: elevenses.jpg
