@@ -1,3 +1,3 @@
-$(".full img").on("click", function() {
-  $(this).toggleClass("zoom");
-});
+// $(".full img").on("click", function() {
+//   $(this).toggleClass("zoom");
+// });
