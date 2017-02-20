@@ -17,7 +17,6 @@ author:
   bio: Founder, Developer, tea maker
   image: fj.png
 ---
-<!DOCTYPE html>
 <html>
 <head>
 	<title>manyMail - A jQuery plug-in for providing a user interface for sending e-mails on a web server</title>
