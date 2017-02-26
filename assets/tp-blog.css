@@ -17,6 +17,9 @@ h2 {
 h3 {
 	color: #6DAFE0;
 }
+.info {
+	background-color: #d9edf7;
+}
 .footnote {
 	font-size: small;
 	font-style: italic;
