@@ -49,11 +49,15 @@ So if you bob (:b)*(//)+([a-zA-Z0-9])*\{ into the Visual Studio **Find In Files*
 
 C#
 --
-<img class="img-center" src="/images/posts/2010/2010-08-14-find-redundant-code-c-sharp.jpg" alt="" />
+<a href="/images/posts/2010/2010-08-14-find-redundant-code-c-sharp.jpg">
+	<img class="img-center" src="/images/posts/2010/2010-08-14-find-redundant-code-c-sharp.jpg" alt="" width="70%" />
+</a>
 
 
 VB.NET
 ------
-<img class="img-center" src="/images/posts/2010/2010-08-14-find-redundant-code-vb.jpg" alt="" />
+<a href="/images/posts/2010/2010-08-14-find-redundant-code-vb.jpg">
+	<img class="img-center" src="/images/posts/2010/2010-08-14-find-redundant-code-vb.jpg" alt="" width="70%" />
+</a>
 
 Well I've tried (the C# version) on the [toepoke](https://toepoke.co.uk) codebase and found **158** hits which on the up side means it's probably working, on the downside I've been a naughty boy!

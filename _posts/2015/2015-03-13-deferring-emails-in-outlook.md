@@ -26,7 +26,9 @@ To combat this I only use them for non-essential reminders that don't need doing
 
 For more deadline based reminders I use <a href="https://support.office.com/en-us/article/Delay-or-schedule-sending-e-mail-messages-026af69f-c287-490a-a72f-6c65793744ba">deferred e-mails</a> to send myself an e-mail at some point in the future, I tend to pay more attention to my **Inbox**:
 
-<img class="img-center" src="/images/posts/2014/2014-03-13-deferred-emails-through-ui.png" width="412" height="312" alt="Deferred e-mail dialog in Outlook" title="Deferred e-mail dialog in Outlook'" />
+<a href="/images/posts/2014/2014-03-13-deferred-emails-through-ui.png">
+	<img class="img-center" src="/images/posts/2014/2014-03-13-deferred-emails-through-ui.png" alt="Deferred e-mail dialog in Outlook" title="Deferred e-mail dialog in Outlook'" width="70%" />
+</a>	
 
 The UI is fine for occasional use, but it's a bit long winded for what I need.  I typically just want a reminder in **2 days** or **2 weeks** time.
 
@@ -36,7 +38,9 @@ So I cranked up my <a href="https://msdn.microsoft.com/en-us/library/office/ee81
 
 In essence I'd like to be able to create a normal blank e-mail, then [easily] instruct **Outlook** to defer the sending of the e-mail to *some point in time*.  Adding the instruction in the **Subject** field seems like a natural starting point:
 
-<img class="img-center" src="/images/posts/2014/2014-03-13-example-defer.png" width="540" height="329" alt="Deferred e-mail dialog in Outlook" title="Deferred e-mail dialog in Outlook'" />
+<a href="/images/posts/2014/2014-03-13-example-defer.png">
+	<img class="img-center" src="/images/posts/2014/2014-03-13-example-defer.png" alt="Deferred e-mail dialog in Outlook" title="Deferred e-mail dialog in Outlook'" width="70%" />
+</a>	
 
 We create the e-mail as normal, with a normal subject line but add a **::** delimiter at the end.  This will tell our VBA code to look at what follows and convert it into *future time*.  Here's some example subject lines:
 

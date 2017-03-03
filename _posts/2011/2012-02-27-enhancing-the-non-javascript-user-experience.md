@@ -25,11 +25,15 @@ I built [Fluqi](http://fluqi.apphb.com/) because I grew tired of typing out the 
 
 For instance we have a screen showing matches that are coming in the future, and whether the user has said they're playing or not.  With JavaScript active the user sees this:
 
-<img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-with-javascript.png" alt="" />
+<a href="/images/posts/2012/2012-02-27-fluqi-with-javascript.png">
+	<img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-with-javascript.png" alt="" width="70%" />
+</a>	
 
 As you can see, the screenshot shows a [tab widget](http://jqueryui.com/demos/tabs/) with an [accordion widget](http://jqueryui.com/demos/accordion/) inside each tab.  [toepoke](https://toepoke.co.uk) was built from the ground up to be [progressive](https://en.wikipedia.org/wiki/Progressive_enhancement) so the site is still usable to people with JavaScript disabled.  So without JavaScript, the same screen looks like this:
 
-<img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-without-javascript.png" alt="" />
+<a href="/images/posts/2012/2012-02-27-fluqi-without-javascript.png">
+	<img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-without-javascript.png" alt="" width="70%" />
+</a>	
 
 It's not very pretty, but it is still useable.
 
@@ -47,7 +51,9 @@ The important part here is **SetRenderCSS(true)**.  This tells [Fluqi](http://f
 
 The result now looks like this:
 
-<img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-without-javascript-2.png" alt="" />
+<a href="/images/posts/2012/2012-02-27-fluqi-without-javascript-2.png">
+	<img class="img-center" src="/images/posts/2012/2012-02-27-fluqi-without-javascript-2.png" alt="" width="70%" />
+</a>	
 
 As we can see, there's quite an improvement.  The tab widget still _looks_ like a tab, as do the accordion.  Naturally the tabs and accordion widgets won't behave as such as JavaScript is off, but it's a lot clearer to the user visually what's going on.
 

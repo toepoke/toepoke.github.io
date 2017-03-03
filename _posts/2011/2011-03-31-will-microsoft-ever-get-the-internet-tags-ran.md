@@ -25,7 +25,9 @@ I recently came across the [Media Feature](http://wekeroad.com/post/4227196454/d
 
 I'm having a quick look to see if it's worth installing and read the opening page:
 
-<img class="img-center" src="/images/posts/2013/2013-03-31-will-microsoft-ever-get-the-internet.jpg" alt="" />
+<a href="/images/posts/2013/2013-03-31-will-microsoft-ever-get-the-internet.jpg">
+	<img class="img-center" src="/images/posts/2013/2013-03-31-will-microsoft-ever-get-the-internet.jpg" alt="" width="70%" />
+</a>	
 
 So let me get this right; In order to find out what's in the Media Feature pack I have too:
 
