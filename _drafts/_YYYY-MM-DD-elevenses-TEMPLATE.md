@@ -17,8 +17,10 @@ author:
   image: fj.png
 ---
 
+Feel free to [suggest an article yourself](https://github.com/toepoke/toepoke.github.io/issues).  Naturally we'll include your github handle as credit.
+
 ## Opinion
-* [Why I struggle with NodeJS](https://dev.to/grahamcox82/why-i-struggle-with-node)
+* []()
 * []()
 * []()
 
