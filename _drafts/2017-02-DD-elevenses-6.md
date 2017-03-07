@@ -2,7 +2,7 @@
 layout: elevenses
 
 title: "Elevenses #6"
-date: 2017-02-06 08:00:00
+date: 2017-02-23 08:00:00
 tags: [elevenses]
 comments: false
 cover_image: elevenses.jpg
@@ -17,13 +17,20 @@ author:
   image: fj.png
 ---
 
+Feel free to [suggest an article yourself](https://github.com/toepoke/toepoke.github.io/issues).  Naturally we'll include your github handle as credit.
+
 ## Opinion
-* [Why I struggle with NodeJS](https://dev.to/grahamcox82/why-i-struggle-with-node)
-* []()
-* []()
+* [Are you a _real_ developer?](http://amiarealdeveloper.com)
+* [What it feels like to be an open source maintainer](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
 
 ## Development
-* []()
+* [Jumping from SQL to Firebase NoSQL Database](http://gonehybrid.com/firebase-database-best-practices/)
+* [Typography for Developers](https://csswizardry.com/2017/02/typography-for-developers/)
+* [Android Wear 2.0 is an evolutionary update to Google’s smartwatch OS](https://techcrunch.com/2017/02/08/android-wear-20-is-an-adequate-update/)
+* [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
+* [Microsoft will launch Visual Studio 2017 on March 7](http://venturebeat.com/2017/02/09/microsoft-will-launch-visual-studio-2017-on-march-7/)
+* [Manifoldjs is becoming PWA Builder, to simplify building Progressive Web Apps](https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380#.wnzdr72ia)
+* [10 Myths About Docker That Stop Developers Cold](https://dev.to/derickbailey/10-myths-about-docker-that-stop-developers-cold)
 * []()
 * []()
 * []()
@@ -34,62 +41,85 @@ author:
 * []()
 
 ## Cloud
-* []()
+* [Amazon outage caused by single command line error #oops](https://nakedsecurity.sophos.com/2017/03/03/amazon-mega-outage-caused-by-single-command-line-error/)
 * []()
 * []()
 
-## JavaScript / Angular2
-* []()
-* []()
-* []()
+## JavaScript / Angular2 / PWA
+* [Twitter move all their web traffic to a PWA](https://twitter.com/necolas/status/829128165314306048)
+* [We built a PWA from scratch - This is what we learned](https://14islands.com/blog/2017/01/19/progressive-web-app-from-scratch/)
+* [Angular Testing In Depth: HTTP Services](https://auth0.com/blog/angular-testing-in-depth-http-services/)
+* [Embracing Promises in JavaScript](http://javascriptplayground.com/blog/2015/02/promises/)
+* [Angular — Advanced Styling Guide (v4+)](https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.gyvtmwpkq) - *[courtesy of CM](https://github.com/ChrisMurphy)*
+* [Async / await in Chrome 55](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
+* [Bootstrap for Vue.js](https://bootstrap-vue.github.io/)
+* [Hyperapp - this weeks new JS framework](https://github.com/hyperapp/hyperapp/)
+* [Simple infinite scroller in Angular 2](https://medium.com/@Sureshkumar_Ash/angular-2-simple-infinite-scroller-directive-with-rxjs-observables-a989b12d4fb1#.x8xojyym2)
+* [A map to modern JavaScript in 2017](https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c#.88dhoxrqk)
+* [Better Ionic theming](https://chrisgriffith.wordpress.com/2017/02/23/better-ionic-theming/)
 
 ## Data / APIs
-* []()
-* []()
+* [6 Common API Errors](https://dev.to/runscope/6-common-api-errors)
+* [Using Google Analytics more effectively](https://css-tricks.com/learning-use-google-analytics-effectively-codepen/)
 * []()
 
 ## Design
-* []()
-* []()
-* []()
+* [Nice gradient patterns](https://webgradients.com/)
+* [Nice design tool, you have to pay for some downloads](https://www.canva.com/)
+* [Brand inspiration](https://app.builtbyemblem.com)
 
 ## Tools
-* []()
+* [Send paypal payments in slack](https://www.producthunt.com/posts/paypal-bot)
 * []()
 * []()
 
 ## Performance
-* []()
-* []()
+* [View your server's metrics in Chrome Dev Tools!](https://twitter.com/paul_irish/status/829090506084749312)
+* [Duoload - simple website load comparison tool](http://lea.verou.me/2017/02/duoload-simplest-website-load-comparison-tool-ever/)
+* [The future of loading CSS](https://jakearchibald.com/2016/link-in-body/)
 * []()
 
 ## Security
-* []()
-* []()
-* []()
+* [Cross-Site Request Forgery is dead!](https://scotthelme.co.uk/csrf-is-dead)
+* [Bang! SHA-1 collides at 38762cf7­f55934b3­4d179ae6­a4c80cad­ccbb7f0a](https://nakedsecurity.sophos.com/2017/02/23/bang-sha-1-collides-at-38762cf7f55934b34d179ae6a4c80cadccbb7f0a/)
+* [Overview of the Cloudflare bug](https://www.troyhunt.com/pragmatic-thoughts-on-cloudbleed)
+* [Bought a CloudPet teddy bear?  You might want to read this](https://www.troyhunt.com/data-from-connected-cloudpets-teddy-bears-leaked-and-ransomed-exposing-kids-voice-messages/)
+* [All about noopener and why you should use it](https://mathiasbynens.github.io/rel-noopener/)
 
 ## Testing
-* []()
-* []()
-* []()
-
-## Misc
-* []()
-* []()
-* []()
-
-## Social / Fun / Cool
-* []()
-* []()
-* []()
-
-## Codepens
-* []()
+* [Browser Monkey - reliable browser testing](https://github.com/featurist/browser-monkey/blob/master/readme.md)
 * []()
 * []()
 
 ## Lifestyle
+* [Hacking toepoke for breakfast](http://toepoke.github.io/2017/03/03/hacking-toepoke-for-breakfast.html)
+* [Got a Hotpoint tumble dryer? Read this ...](https://www.theguardian.com/money/2017/feb/22/hotpoint-indesit-tumble-dryers-fire-risk-whirlpool-creda-proline)
+* [New car seat laws come into effect in March 2017](http://www.hotukdeals.com/misc/new-car-seat-laws-come-into-effect-1st-march-2017-2614251)
+* [Leeds - New Event Pits the City's Best Chef's Against Each Other](https://leeds-list.com/food-and-drink/new-event-pits-the-citys-best-chefs-against-each-other)
+* [A toaster ... for bacon ... mmmmm](https://www.amazon.com/Nostalgia-BCN6BK-Bacon-Express-Crispy/dp/B01HVL6MES/ref=cm_cr_arp_d_product_top?ie=UTF8)
+* [Speaking of toasters ... which would win, toaster or freezer?](https://what-if.xkcd.com/155)
+* [17 things in Leeds you've probably never heard of](https://leeds-list.com/culture/18-things-youve-probably-never-done-in-leeds)
+
+## Misc
+* [Out-scamming the scammers](https://www.businessinsider.nl/telecom-guy-uses-bots-to-foil-microsoft-support-scammers-2017-2/)
+* [How many &lt;insert car model here&gt; are left?](https://www.howmanyleft.co.uk/)
+* [16 years ago this month ...](http://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-onthisday-a-champions-league-night-to-remember-1-8399492)
+* [Software Licenses Explained in Plain English](https://tldrlegal.com/)
+* [Antarctic fire department?](http://www.antarcticfire.org/)
+* [Uber #naughty](https://mobile.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html)
+
+## Social / Fun / Cool / Deals
+* [Free eye test](https://www.specsavers.co.uk/stores/leeds)
+* [Drone selfie taker *brilliant idea*](https://www.producthunt.com/posts/airselfie)
+* [The 50 unofficial rules of 5-a-side football](http://www.telegraph.co.uk/men/active/50-unwritten-rules-5-a-side-football/)
+* [Build your own 2D games](https://www.scirra.com/)
+* [Tabs Vs Spaces :)](https://www.youtube.com/watch?v=SsoOG6ZeyUI)
+* [Fasinating video of Leeds in the 1960s](https://youtu.be/BZi6EPdoRNA)
+* [People's gardens you can go visit #somethingdifferent](http://www.ngs.org.uk/), [here's one in Leeds](http://www.ngs.org.uk/gardens/find-a-garden/Garden.aspx?id=31094)
+
+## Codepens
+* [Swimming pool](http://codepen.io/sdras/full/VPqrOR)
+* [Login form transition](https://t.co/7F0Pwd03nV)
 * []()
-* []()
-* []()
+
 
