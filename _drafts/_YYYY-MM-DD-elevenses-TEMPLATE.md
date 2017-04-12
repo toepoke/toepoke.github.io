@@ -40,7 +40,7 @@ Feel free to [suggest an article yourself](https://github.com/toepoke/toepoke.gi
 * []()
 * []()
 
-## JavaScript / Angular2
+## JavaScript / Angular2+ / Ionic2
 * []()
 * []()
 * []()
