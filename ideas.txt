@@ -1,0 +1,2 @@
+ - Outline how to use chrome://inspect/#devices and why it's useful for handle tabs and it's usage in elevenses
+ - Then cross reference in elevenses article
