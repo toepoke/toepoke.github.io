@@ -26,7 +26,7 @@ With the 2014/15 season upon us, I've re-enabled the league.  If you’d like to
 2. Click the **LEAGUES** tab.
 3. Click **Join a league**.
 4. Select **Private League**, then **Next**.
-5. When prompted enter the code **375864-106483**
+5. When prompted enter the code **151573-38751**
 6. Click **JOIN PRIVATE LEAGUE**.
 
 Hope to see you there!
