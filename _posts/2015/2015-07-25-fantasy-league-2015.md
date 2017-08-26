@@ -30,6 +30,3 @@ With the 2014/15 season upon us, I've re-enabled the league.  If you’d like to
 6. Click **JOIN PRIVATE LEAGUE**.
 
 Hope to see you there!
-
-
-TEST!
