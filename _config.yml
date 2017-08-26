@@ -78,7 +78,7 @@ textile_ext:   textile
 excerpt_separator: "<!-- more -->"
 
 safe:        false
-host:        0.0.0.0
+host:        127.0.0.1
 port:        4000
 baseurl:     /
 lsi:         false
@@ -136,3 +136,4 @@ assets:
 plugins:
   - jemoji
   - jekyll-paginate  
+  - jekyll-redirect-from

@@ -216,6 +216,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-paginate
+  jekyll-redirect-from
   jemoji
 
 BUNDLED WITH
