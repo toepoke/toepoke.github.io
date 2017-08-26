@@ -1,32 +1,11 @@
 ---
-layout: post
+redirect_from: "/fantasy-league.html"
 
-title: "Fantasy League, 2015 !"
-# subtitle: "What's in the box"
-date: 2015-07-25 07:59:00
-tags: [fun]
-comments: true
-cover_image: football-left.jpg
-
-excerpt: "Fantasy League for 2015 season"
-
-author:
-  name: fJ
-  twitter: toepoke_co_uk
-  gplus: toepokeCoUk
-  bio: Founder, Developer, tea maker
-  image: fj.png
+title: Fantasy League!
+redirect_from:
+  - /2015/07/25/fantasy-league-2015
+redirect_to:
+  - /fantasy-league.html
 ---
 
-Been running this the last few years.  No prizes (sorry), just a bit of fun.
-
-With the 2014/15 season upon us, I've re-enabled the league.  If you’d like to join in, simply follow these steps.
-
-1. Sign-up with [Fantasy Premier League](http://fantasy.premierleague.com).
-2. Click the **LEAGUES** tab.
-3. Click **Join a league**.
-4. Select **Private League**, then **Next**.
-5. When prompted enter the code **151573-38751**
-6. Click **JOIN PRIVATE LEAGUE**.
-
-Hope to see you there!
+Redirecting to latest <a href="/fantasy-league.html">Fantasy League article</a>.

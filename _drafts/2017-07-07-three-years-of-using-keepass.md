@@ -11,11 +11,14 @@ VPN referral for the VPN link below?
 
 Have toepoke deployment in separate file. Again not synced
 
+use random number generator for your username as well as a password (unless it's an e-mail username).
+
 Cross reference Troy Hunt's article that basically says password managers aren't a silver bullet, they're just better than the alternative:
 
 https://www.troyhunt.com/password-managers-dont-have-to-be-perfect-they-just-have-to-be-better-than-not-having-one/
 
-
+include link to top 10K passwords that we're adding into toepoke
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/10_million_password_list_top_10000.txt
 
 
 
