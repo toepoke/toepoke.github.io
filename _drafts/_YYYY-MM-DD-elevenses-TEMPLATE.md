@@ -65,7 +65,7 @@ Feel free to [suggest an article yourself](https://github.com/toepoke/toepoke.gi
 * []()
 * []()
 
-## Design
+## UI & UX
 * []()
 * []()
 * []()
