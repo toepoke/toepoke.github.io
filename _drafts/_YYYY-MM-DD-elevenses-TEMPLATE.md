@@ -19,7 +19,7 @@ author:
 
 Feel free to [suggest an article yourself](https://github.com/toepoke/toepoke.github.io/issues).  Naturally we'll include your github handle as credit.
 
-## Opinion
+## News & Opinion
 * []()
 * []()
 * []()
@@ -100,7 +100,7 @@ Feel free to [suggest an article yourself](https://github.com/toepoke/toepoke.gi
 * []()
 * []()
 
-## Codepens
+## Funky code things
 * []()
 * []()
 * []()
