@@ -1,33 +1,9 @@
-# NOTES
-Do this and add to article
-
-Split banks and stuff you only do at home into a separate file. Don't sync that over Dropbox (pause synching so you can turn off on the new file)
-
-Nonce concept for stuff that is high impact
-
-Tagging priorities
-
-VPN referral for the VPN link below?
-
-Have toepoke deployment in separate file. Again not synced
-
-use random number generator for your username as well as a password (unless it's an e-mail username).
-
-Cross reference Troy Hunt's article that basically says password managers aren't a silver bullet, they're just better than the alternative:
-
-https://www.troyhunt.com/password-managers-dont-have-to-be-perfect-they-just-have-to-be-better-than-not-having-one/
-
-include link to top 10K passwords that we're adding into toepoke
-https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/10_million_password_list_top_10000.txt
-
-
-
 ---
 layout: post
 
 title: "A follow-up to using password managers"
 # subtitle: "What's in the box"
-date: 2017-07-08 08:00:00
+date: 2018-01-06 08:00:00
 tags: [security, tips]
 comments: true
 cover_image: locks.jpg
@@ -43,18 +19,37 @@ author:
 
 ## 3 years ago ...
 
-Back in 2014 (2014!) I wrote a blog post about my experiences [starting with a password manager](http://toepoke.github.io/2014/06/07/living-with-a-password-manager-in-the-real-world.html).  I thought it was high time for a follow-up post about how things have gone.
+Back in 2014 (2014!) I wrote a blog post about [starting to use a password manager](http://toepoke.github.io/2014/06/07/living-with-a-password-manager-in-the-real-world.html).  I thought it was high time for a follow-up post about how things have gone.
 
-### Are you still using it?
-Yes.
+## TL;DR
 
-### Would you ever go back?
-No, can't see it.
+<dl class="dl.horizontal">
+  <dt>Are you still using a password manager?</dt><dd>Yes, and it's still <a href="https://keepass.info">KeePass</a>.</dd>
+  <dt>Would you ever go back?</dt><dd>No, I can't see it.</dd>
+  <dt>What have you learnt since?</dt><dd>Read on ...</dd>
+</dl>
 
-## What have you learnt since?
+## What I've Learnt
 
-### Cloud sync
-[Dropbox*](https://db.tt/oygIDRDY3M) syncing of your KeePass database between your main PC or laptop and your mobile phone.  Just make sure you have a PIN on the Dropbox mobile phone app, and two-factor authentication setup (though this [isn't without issue](https://twitter.com/toepoke_co_uk/status/873871178309488640?s=09)).
+This isn't intended to be an intensive post, just a few observations and conclusions I've come to whilst using [KeePass](https://keepass.info) for the last few years.
+
+### <div name="cloud-sync">Cloud sync</div>
+I use [Dropbox*](https://db.tt/oygIDRDY3M) for [syncing my KeePass database](https://keepass.info/help/v2/sync.html) between my main laptop and my mobile phone.  
+
+This makes it **even** more important to lock down your [Dropbox*](https://db.tt/oygIDRDY3M).
+
++ Ensure you have [a PIN setup](https://www.dropbox.com/help/mobile/passcode-phone-tablet) on your [Dropbox*](https://db.tt/oygIDRDY3M) account.
++ Enable [two-factor authentication](https://www.dropbox.com/account/security)[+](#two-factor).
++ Use a [nonce](#nonce) in your [Dropbox*](https://db.tt/oygIDRDY3M) password.
+
+### <div name="two-factor">+ Two-Factor Authenticaion</div>
+
+Whilst SMS is better than not having two-factor authentication, [it's not without issues](https://twitter.com/toepoke_co_uk/status/873871178309488640?s=09)).
+
+I'd advise using a third-party app like [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en) which doesn't require a phone reception or even an internet connection to verify you are the account holder.  This is an option on [Dropbox](https://db.tt/oygIDRDY3M), and many other websites too.
+
+Of course you'll want to use two-factor authentication on other important accounts.  Any accounts with financial data, and of course your **[Google account](https://myaccount.google.com)**!
+
 
 ### Use multiple databases
 Since the beginning I've used a single database for all my passwords.  The single database is then synched to my mobile via [Dropbox*](https://db.tt/oygIDRDY3M).
@@ -63,23 +58,52 @@ This all works great, however using a cloud provider does increase your [risk of
 
 To mitigate this I'm moving towards using multiple password databases.  Well 2 in fact.  Online and offline:
 
-#### Offline
+## Online and Offline Accounts
 
-1. Financials - I don't tend to check my bank account on my phone, nor on a WiFi point I don't trust (though there are [ways around that risk to](https://ipvanish.com)).  
+Of course [syncing your database to Dropbox](#cloud-sync) introduces the risk of your password database being compromised.  And remember if your KeePass database is compromised [it's pretty game over](https://www.rubydevices.com.au/blog/how-to-hack-keepass).
 
-2. Toepoke accounts - Again I tend to do any releases or fixes unless I'm at home, so there's little point increasing the risk by having these accounts synced in the cloud.
-
-#### Online (Synced via [Dropbox*](https://db.tt/oygIDRDY3M))
-
-Pretty much everything else!
+If we're really paranoid (and yes, I am :D), we can mitigate this risk by using multiple KeePass databases.
 
 KeePass fully supports using multiple databases, and you can have different [master] passwords for each database.  Each database just appears as another window in the application.
 
 <img src="http://keepass.info/screenshots/keepass_2x/main_big.png" />
 
+#### Offline
+
+I have one database for accounts I don't access anywhere but at home, on my laptop, using a WiFi point I mostly trust. 
+
+Yes, I could grab and network cable and connect using a wire - it's always a compromise between security and convenience - in this instance, convenience wins :-).
+
+1. Financials - I don't tend to check my bank account on my phone, nor on a WiFi point I don't trust (though there are [ways around that risk to](https://ipvanish.com)).  
+
+2. [Toepoke](https://toepoke.co.uk) accounts - I only do releases or fixes at home, so there's little point increasing the risk by having these accounts synced in the cloud?
+
+It's pretty straightforward to tell [Dropbox*](https://db.tt/oygIDRDY3M) to [not sync your offline password database](https://www.dropbox.com/help/syncing-uploads/selective-sync-overview).
+
+<p class="text-danger">
+A quick note about backups.  You need them!  
+
+If your hard drive fails at home you'll lose your password database and all the passwords in it.  This is pain we don't want.
+
+Store a backup off your main machine, somewhere safe.  Perhaps in a [VeraCrypt](https://www.veracrypt.fr) volume - and yes, I do, as is my entire laptop :-)
+</p>
+
+#### Online (Synced via [Dropbox*](https://db.tt/oygIDRDY3M))
+
+Pretty much everything else!  Everything from 
 
 
 
+
+### <div name="nonce">Using a nonce for important accounts</div>
+
+
+### Saving Passwords
+
+Yes, that little *Remember me* tickbox is very useful.  Personally I don't like knowing my passwords
+https://www.engadget.com/2013/08/07/chrome-saved-passwords/
+
+https://nakedsecurity.sophos.com/2018/01/03/ad-scripts-track-users-via-browser-password-managers/
 
 
 <small>* Yes, that's a referral link to Dropbox, I get some extra space if you sign-up using that link</small>
