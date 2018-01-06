@@ -2523,10 +2523,15 @@ article blockquote {
 }
 
 article blockquote p {
-  font-size: 30px;
+  font-size: 0.8em;
   line-height: 1.1;
   color: #2077b2;
-  font-weight: 600
+  font-weight: 600;
+
+  margin-left: 1em;
+  padding-left: 1em;
+  margin-right: 8em;
+  border-left: solid 2px #2077b2;  
 }
 
 article h1 {
@@ -3018,7 +3023,11 @@ article .full.zoomable img.zoom {
   }
 
   article blockquote p {
-    font-size: 1em
+    font-size: 0.6em;
+
+    margin-left: 0;
+    padding-left: 0.5em;
+    margin-right: 0;
   }
 
   article h1 {
