@@ -34,13 +34,13 @@ If you haven't used [Dropbox](https://db.tt/s4rtqKa) before, it's a great little
 <p style="margin-left: 20px; font-size: 0.75em">
 If you don't have a <a href="https://db.tt/s4rtqKa">Dropbox</a> account, I suggest you <a href="https://db.tt/s4rtqKa">head over there</a> and install it on your desktop (it's really easy).
 <br/><br/>
-Don't worry, I'll be right here when you get back <img src="/images/smile.png" alt="smile" title="smile" />
+Don't worry, I'll be right here when you get back :smile:
 </p>
 
 # Dropbox on Android
 - [Download and install](https://play.google.com/store/apps/details?id=com.dropbox.android) the [Dropbox app](https://play.google.com/store/apps/details?id=com.dropbox.android) for Android
   - I recommend adding a passcode to [Dropbox](https://db.tt/s4rtqKa) via **Settings &gt; Require app passcode**<br/>Should you ever lose your phone, nobody can easily download your data.
-  - I would also recommend ticking the **Erase data - Erase all Dropbox data from this device after 10 failed passcode attempts** - again this just provides extra security (you can always save your passcode in **KeePass2Android** if you think you'll forget it <img src="/images/wink.png" alt="wink" title="wink" />).
+  - I would also recommend ticking the **Erase data - Erase all Dropbox data from this device after 10 failed passcode attempts** - again this just provides extra security (you can always save your passcode in **KeePass2Android** if you think you'll forget it :wink:).
 - Once installed, simply download the **KeePass** database file to your phone by _thumbing_ the file in the [Dropbox](https://db.tt/s4rtqKa) UI.
 
 With [Dropbox](https://db.tt/s4rtqKa) installed we can move onto using the [KeyPass Android app](https://play.google.com/store/apps/details?id=keepass2android.keepass2android).

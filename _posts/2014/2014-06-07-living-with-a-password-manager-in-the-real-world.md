@@ -61,9 +61,9 @@ So despite the dread at the mind-numbing-banalty of sorting my passwords out, I 
 
 I had [a look around the market](http://www.alphr.com/features/380377/password-managers-are-they-safe-which-is-the-best) and decided I'd run my little challenge with [KeePass](http://keepass.info/), because:
 
-1. It's open source and [OSI certified](http://keepass.info/help/base/) ... whatever that means <img src="/images/smile.png" alt="smile" title="smile" />
+1. It's open source and [OSI certified](http://keepass.info/help/base/) ... whatever that means :smile:
 2. It's [free](http://www.runnersworld.co.uk/forum/clubhouse/ae-yorkshiremen-really-tight/104780.html).
-3. If you read it wrong, it sounds a little rude <img src="/images/wink.png" alt="wink" title="wink" />
+3. If you read it wrong, it sounds a little rude :wink:
 
 I've also written posts about installing **KeePass** on the [Windows]({% post_url /2014/2014-06-10-keepass-installation-part-1-desktop %}) and [Android]({% post_url /2014/2014-06-10-keepass-installation-part-2-android-mobile %}) platforms.
 
@@ -105,7 +105,7 @@ Again this calls for a more pragmatic approach, so I'm going to [improve my exis
 
 ## Are you still using KeePass?
 
-How do you think I logged into [my blog](https://help.github.com/articles/using-jekyll-with-pages/) to post this article? <img src="/images/wink.png" alt="wink" title="wink" />
+How do you think I logged into [my blog](https://help.github.com/articles/using-jekyll-with-pages/) to post this article? :wink:
 
 
 ## Related articles

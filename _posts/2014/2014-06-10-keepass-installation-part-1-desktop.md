@@ -42,10 +42,10 @@ Once downloaded, copy the portable version to your tools folder, or desktop - ba
 Alongside the **Master password**, additional security elements can be used ... but should you?
 
 - **Key file**<br/>
-  Useful, but how would you securely store it?  On an encrypted USB thumb drive?  Possibly, but then you need a password to open it … see where I'm going <img src="/images/wink.png" alt="wink" title="wink" />
+  Useful, but how would you securely store it?  On an encrypted USB thumb drive?  Possibly, but then you need a password to open it … see where I'm going :wink:
 - **Windows User Account**<br/>
   You can also tie your installation to your username on your Windows machine if you prefer the extra security.  However I would advise against it:
-  * Should your Windows machine ever die, or a hard disk dies you can no longer access your password database.  This can be mitigated with a [good backup strategy](http://www.hanselman.com/blog/TheComputerBackupRuleOfThree.aspx) - which you have, don't you? <img src="/images/smile.png" alt="smile" title="smile" />
+  * Should your Windows machine ever die, or a hard disk dies you can no longer access your password database.  This can be mitigated with a [good backup strategy](http://www.hanselman.com/blog/TheComputerBackupRuleOfThree.aspx) - which you have, don't you? :smile:
   * This limits you to just the one computer, so forget about using the password manager on your phone.
 
 If it helps, I went with the **Master password** option only.  I think the default Database settings are fine, just click **OK**.  
@@ -71,10 +71,10 @@ The left hand pane shows categories for various online services, internet sites,
 
 The right hand side shows website in the current category; all straight-forward stuff.
 
-<p style="margin-left: 20px; font-size: 0.75em">In the remainder of this article I'll only show keyboard shortcuts to access relevant features.  <strong>KeePass</strong> does allow everything to be selected with the mouse, however I solemnly believe using the keyboard is the most productive means of using the manager, and therein the best way to encourage its adoption in the long term – which is in your best interests dear reader <img src="/images/wink.png" alt="wink" title="wink" />.</p>
+<p style="margin-left: 20px; font-size: 0.75em">In the remainder of this article I'll only show keyboard shortcuts to access relevant features.  <strong>KeePass</strong> does allow everything to be selected with the mouse, however I solemnly believe using the keyboard is the most productive means of using the manager, and therein the best way to encourage its adoption in the long term – which is in your best interests dear reader :wink:.</p>
 
 ## Adding entries
-I'm going to add an entry to [our favourite website for organising football](https://toepoke.co.uk) <img src="/images/wink.png" alt="wink" title="wink" />
+I'm going to add an entry to [our favourite website for organising football](https://toepoke.co.uk) :wink:
 
 1. Select **Internet** on the left hand side pane
 2. Hit **CTRL+Y** to **Add Entry**

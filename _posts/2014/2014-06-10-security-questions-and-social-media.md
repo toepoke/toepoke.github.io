@@ -87,7 +87,7 @@ If you've been following [my experiment with KeePass]({% post_url /2014/2014-06-
 
 I would suggest using the KeePass random password generator to create a difficult to guess (actually nigh on impossible!) word to use for your _secret answer_.  Simple use the **Tools &gt; Generate Password** and save it alongside your **KeePass** login credentials for the website.
 
-Of course if you need to telephone your bank, you may find it difficult to explain your first pet was called **ZAVFzD8ebAYjqbSnae7n** <img src="/images/wink.png" alt="wink" title="wink" />
+Of course if you need to telephone your bank, you may find it difficult to explain your first pet was called **ZAVFzD8ebAYjqbSnae7n** :wink:
 
 ## Related articles
 - [Password Managers in the real-world]({% post_url /2014/2014-06-07-living-with-a-password-manager-in-the-real-world %})

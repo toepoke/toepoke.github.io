@@ -49,7 +49,7 @@ You have something like this:
 ### Fix
 
 You're a C# developer aren't you?<br/>
-Simply change "**in**" to "**of**" and you're sorted <img src="/images/smile.png" alt="smile" title="smile" />. 
+Simply change "**in**" to "**of**" and you're sorted :smile:. 
 
 {% highlight html %}
 <ul>
@@ -150,13 +150,13 @@ Instead of **ToDoEdit**, I had **TodoEdit** defined in my **@RouteConfig**:
 ])
 {% endhighlight %}
 
-Lesson here is, check the case of your route configuration <img src="/images/smile.png" alt="smile" title="smile" />
+Lesson here is, check the case of your route configuration :smile:
 
 
 <hr class="fancy"/>
 # Epilogue
 
 Granted there aren't many here.  I fully intend to screw up even more than usual and add further findings
-<img src="/images/grin.png" alt="grin" title="grin" />.
+:grin:.
 
 <hr class="fancy"/>

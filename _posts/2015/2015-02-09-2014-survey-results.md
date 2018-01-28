@@ -28,7 +28,7 @@ The _big take_ for me personally was **77%** of you would recommend the website 
 
 That tells me we must be doing something right!<sup>*</sup>
 
-<small><sup>*</sup> Granted people who find the website useful, are also more inclined to fill in the survey.  But I'm still taking this as a huge positive <img src="/images/grin.png" alt="grin" title="grin" /></small>
+<small><sup>*</sup> Granted people who find the website useful, are also more inclined to fill in the survey.  But I'm still taking this as a huge positive :grin:</small>
 
 ## First Impressions
 

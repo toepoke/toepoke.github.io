@@ -25,7 +25,7 @@ It's the last day of the week! The weekend is in sight. It's time for a Friday t
 3. Check if the list is complete
 4. Copy & paste the sheet to your phone so you can remember the order ...
 
-All of this is sounding quite familiar <img src="/images/grin.png" alt="grin" title="grin" />
+All of this is sounding quite familiar :grin:
 
 And yes [there more specialised websites](https://www.just-eat.co.uk/), but with a little tweaking we can reprovision [toepoke](https://toepoke.co.uk) to do our ordering, and take advantage of already having accounts setup.
 

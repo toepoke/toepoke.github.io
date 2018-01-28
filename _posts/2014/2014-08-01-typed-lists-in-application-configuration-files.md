@@ -20,7 +20,7 @@ author:
 
 Being able to read <a href="https://sites.google.com/site/craigandera/craigs-stuff/clr-workings/the-last-configuration-section-handler-i-ll-ever-need">.NET config files into typed classes</a> has been around for <a href="http://blog.codinghorror.com/the-last-configuration-section-handler/">ages</a>!
 
-So why am I writing about it?  Good question! <img src="/images/smile.png" alt="smile" title="smile" />
+So why am I writing about it?  Good question! :smile:
 
 An aspect of this which hasn't been well covered is when we have a list of configuration items we want to load.  We'll use this <a href="https://msdn.microsoft.com/en-us/library/1xtk877y.aspx">app.config</a> as an illustration:
 
