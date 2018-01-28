@@ -55,7 +55,7 @@ inc:
 url:         http://toepoke.github.io
 blog_title:  'Getting the best out of toepoke'
 destination: ./_site
-plugins:     [./_plugins]
+plugins:     [./_plugins,jemoji]
 layouts_dir: ./_layouts
 include:     ['.htaccess']
 exclude:     []
