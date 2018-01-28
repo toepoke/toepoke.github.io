@@ -7,7 +7,7 @@ Want to add a link to the elevenses?  Find the WIP version in the [drafts folder
 Guest posts are also welcome; 
 
 1. Raise an [issue](https://github.com/toepoke/toepoke.github.io/issues) with a synopsis.  I'll review and ensure it's worth you putting the effort in.
-2. If the issue is approved, add your post
+2. If the issue is approved, add your post.
 3. Submit pull request.
 
 # Credits
