@@ -6,7 +6,9 @@ date: 2017-02-00 08:00:00
 tags: [elevenses]
 comments: false
 cover_image: elevenses.jpg
-# Emoki lookup - https://gist.github.com/rxaviers/7360908
+#https://toepoke.github.io/
+# Emoji lookup - https://gist.github.com/rxaviers/7360908
+# :blush:   :grin:   :wink:   :sob:   :smile:   :laughing:
 
 excerpt: "Random links from the internet ..."
 
@@ -31,7 +33,7 @@ Feel free to [suggest an article yourself](https://github.com/toepoke/toepoke.gi
 * []()
 * []()
 
-## DotNet Core
+## DotNet Core / Azure
 * []()
 * []()
 * []()
@@ -72,6 +74,11 @@ Feel free to [suggest an article yourself](https://github.com/toepoke/toepoke.gi
 * []()
 
 ## Tools
+* []()
+* []()
+* []()
+
+## Testing
 * []()
 * []()
 * []()
