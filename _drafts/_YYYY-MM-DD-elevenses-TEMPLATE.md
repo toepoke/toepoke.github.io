@@ -23,98 +23,40 @@ author:
 Feel free to [suggest an article yourself](https://github.com/toepoke/toepoke.github.io/issues).  Naturally we'll include your github handle as credit.
 
 ## News & Opinion
-* []()
-* []()
-* []()
 
 ## Development
-* []()
-* []()
-* []()
-* []()
 
 ## DotNet Core / Azure
-* []()
-* []()
-* []()
 
 ## SQL
-* []()
-* []()
-* []()
 
 ## Cloud
-* []()
-* []()
-* []()
 
 ## Accessibility
-* []()
-* []()
-* []()
 
 ## JavaScript / Angular2+ / Ionic2+ / ReactJS
-* []()
-* []()
-* []()
 
 ## Libraries / Plugins / Components
-* []()
-* []()
-* []()
 
 ## Data / APIs
-* []()
-* []()
-* []()
 
 ## UI & UX
-* []()
-* []()
-* []()
 
 ## Tools
-* []()
-* []()
-* []()
 
 ## Testing
-* []()
-* []()
-* []()
 
 ## Performance
-* []()
-* []()
-* []()
 
 ## Security
-* []()
-* []()
-* []()
 
 ## Testing
-* []()
-* []()
-* []()
 
 ## Misc
-* []()
-* []()
-* []()
 
 ## Social / Fun / Cool
-* []()
-* []()
-* []()
 
 ## Funky code things
-* []()
-* []()
-* []()
 
 ## Lifestyle
-* []()
-* []()
-* []()
 
