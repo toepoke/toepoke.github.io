@@ -26,10 +26,11 @@ Been running this the last few years.  No prizes (sorry), just a bit of fun.
 3. Click **Create and join new leagues**.
 4. Click **Join a league**.
 4. Select **Join private league**.
-5. When prompted enter the code **151573-38751**
+5. When prompted enter the code **1430732-340354**
 6. Click **Join league**.
 
 Hope to see you there!
 
 ## History
 - **August, 2017:** Updated league code for 2016-2017 season
+- **July, 2018:** Updated league code for 2018-2019 season
