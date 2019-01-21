@@ -24,7 +24,7 @@ Little tip to share that helps me remember.  This only works if you hibernate or
 1. Open Event Viewer (**Start > Run EventVwr**)
 2. Expand **Windows Logs**  
 3. Right click on **System**, **Filter Current Log ...**
-4. In **Event sources** select **Kernel-Power** and **Power-Troubleshooter**
+4. In **Event sources**: Copy+Paste "**Kernel-Power, Power-Troubleshooter**", then click **OK**
 5. Right click on **System**, **Save Filter to Custom View...** and give it an appropriate name, e.g. **Log on and off times**
 
 If you now expand **Custom Views** and select **Log on and off times** you'll see something like this:
