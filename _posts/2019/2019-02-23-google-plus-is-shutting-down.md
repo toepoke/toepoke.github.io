@@ -7,7 +7,7 @@ tags: [toepoke]
 comments: false
 cover_image: startled-cat.jpg
 
-excerpt: "breakfast, mmmm ..."
+excerpt: "Action may be required on your account ..."
 
 author:
   name: fJ
