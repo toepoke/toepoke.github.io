@@ -2,7 +2,7 @@
 layout: post
 
 title: "Google+ is shutting down"
-date: 2019-02-23 08:00:00
+date: 2019-02-23 07:00:00
 tags: [toepoke]
 comments: false
 cover_image: startled-cat.jpg
