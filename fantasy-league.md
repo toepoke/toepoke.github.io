@@ -1,7 +1,7 @@
 ---
 layout: post
 
-date: 2018-07-31 07:59:00
+date: 2019-07-09 07:59:00
 tags: [fun]
 
 title: "Fantasy League Fun!"
@@ -26,11 +26,13 @@ Been running this the last few years.  No prizes (sorry), just a bit of fun.
 3. Click **Create and join new leagues**.
 4. Click **Join a league**.
 4. Select **Join private league**.
-5. When prompted enter the code **1430732-340354**
+5. When prompted enter the code **3lascp**
 6. Click **Join league**.
 
 Hope to see you there!
 
 ## History
-- **August, 2017:** Updated league code for 2016-2017 season
-- **July, 2018:** Updated league code for 2018-2019 season
+- **Aug, 2017:** Updated league code for 2016-2017 season
+- **Jul, 2018:** Updated league code for 2018-2019 season
+- **Jul, 2019:** Updated league code for 2019-2020 season
+
