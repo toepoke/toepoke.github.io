@@ -73,6 +73,9 @@
 - slug: office
   name: office
   
+- slug: opinion
+  name: opinion
+  
 - slug: rants
   name: rants
   
