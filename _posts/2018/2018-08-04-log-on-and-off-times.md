@@ -42,18 +42,18 @@ If you now expand **Custom Views** and select **Log on and off times** you'll se
 
 We can also get this information with [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/overview), in case, I dunno the Event Viewer decides to get corrupted and crash everytime you try and filter the results #truestory.
 
-<p style="margin-left: 1em">
-<span style="color:cyan">Get-EventLog</span> 
-<span style="color:yellow">-LogName</span>
-<span style="color:magenta">System</span>
+<p style="margin-left: 1em; background-colour: #012456">
+<span style="color:#a5cce3">Get-EventLog</span> 
+<span style="color:#d89d68">-LogName</span>
+<span style="color:#ad60de">System</span>
 <span style="color:yellow">-Source</span> 
-<span style="color:magenta">Microsoft-Windows-Power-Troubleshooter,Microsoft-WIndows-Kernel-Power</span>
-<span style="color:yellow">-After</span>
-<span style="color:cyan">(Get-Date)</span><span style="color:white">.AddDays</span>
-<span style="color:yellow">(-5)</span>
+<span style="color:#ad60de">Microsoft-Windows-Power-Troubleshooter,Microsoft-WIndows-Kernel-Power</span>
+<span style="color:#d89d68">-After</span>
+<span style="color:#a5cce3">(Get-Date)</span><span style="color:white">.AddDays</span>
+<span style="color:#d89d68">(-5)</span>
 </p>
 
-Which will show log on and off times for the past week.  Tweak the <span style="color:cyan">(Get-Date)</span><span style="color:white">.AddDays</span><span style="color:yellow">(-5)</span> setting for other date ranges.
+Which will show log on and off times for the past week.  Tweak the <span style="color:#a5cce3">(Get-Date)</span><span style="color:white">.AddDays</span><span style="color:#d89d68">(-5)</span> setting for other date ranges.
 
 
 <!-- Image credit -->
