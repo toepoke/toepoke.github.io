@@ -73,7 +73,7 @@ So far, so uninteresting.  The list form is thus:
 
 The **XmlRoot** declaration tells the framework this is the **List** version of the **Player** class.  The **PlayerItems** is a container for the content of the XML.  Finally ensure the **PlayerItems** object is created correctly in the constructor.
 
-And that's basically it.  The full and unit tested version is <a href="https://github.com/toepoke/toepoke.github.io.code/blob/master/c#/Unit.Tests/XmlSerializerSectionHandler/XmlSerializerSectionHandler.cs">up on github</a>.
+And that's basically it.  The full and unit tested version is <a href="https://github.com/toepoke/toepoke.github.io.code/blob/master/c%23/Unit.Tests/XmlSerializerSectionHandler/XmlSerializerTests.cs">up on github</a>.
 
 Hope this helps, until next time!
 
