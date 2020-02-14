@@ -51,6 +51,7 @@ We can also get this information with [PowerShell](https://docs.microsoft.com/en
 <span style="color:#d89d68">-After</span>
 <span style="color:#a5cce3">(Get-Date)</span><span style="color:white">.AddDays</span>
 <span style="color:#d89d68">(-5)</span>
+<span style="color:#d89d68">| Sort-Object Index | Select-Object @{Name='WhenLogged';Expression={Get-Date $_.TimeWritten -Format 'ddd dd-MMM-yy HH:mm'} };</span>
 </p>
 
 Which will show log on and off times for the past week.  Tweak the <span style="background-color:#012456; font-family:monospace; padding-left:0.5em; padding-right:0.5em"><span style="color:#a5cce3">(Get-Date)</span><span style="color:white">.AddDays</span><span style="color:#d89d68">(-5)</span></span> setting for other date ranges.
