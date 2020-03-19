@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Google+ is shutting down"
+title: "Pausing football during the Corona-virus"
 date: 2020-03-19 07:00:00
 tags: [toepoke]
 comments: false
