@@ -2,7 +2,7 @@
 layout: post
 
 title: "Resuming football during the Corona-virus"
-date: 2020-07-209 07:00:00
+date: 2020-07-20 07:00:00
 tags: [toepoke]
 comments: false
 cover_image: toepoke-on-tablet.jpg
