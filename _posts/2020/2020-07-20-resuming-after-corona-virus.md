@@ -7,7 +7,7 @@ tags: [toepoke]
 comments: false
 cover_image: toepoke-on-tablet.jpg
 
-excerpt: "What to do with football? ..."
+excerpt: "We're coming back, we're eager to play, we've eaten lots of crisps ..."
 
 author:
   name: fJ
