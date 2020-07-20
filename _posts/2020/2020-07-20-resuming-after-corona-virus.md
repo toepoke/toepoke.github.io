@@ -29,7 +29,7 @@ Assuming you [suspended](https://toepoke.github.io/2020/03/19/corona-virus.html)
 1. Navigate to your [squad dashboard](https://toepoke.co.uk/squad.aspx/dashboard)
 2. Click the **change template** button on the appropriate squad
 3. Select the **My Timeline** tab
-4. Under the **Active** column check each reminder you want to activate
+4. Under the **Active** column tick each reminder you want to activate
 5. Click **save** to confirm the changes
 
 <img class="img-center" src="/images/posts/2020/2020-03-19-disabling-reminders.png" alt="Disabling your regular game" width="70%" />
