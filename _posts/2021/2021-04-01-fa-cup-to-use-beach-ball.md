@@ -36,6 +36,7 @@ Mr Ballingham is said to have been inspired by <strong>Darren Bant's</strong> go
 The founder of [toepoke.co.uk](https://toepoke.co.uk) is considering adopting the same for his 7s game on a Thursday nights.
 
 > I'm love playing, but I'm a terrible footballer.  Having a ball twice the size would help me immensely.<br/>
+
 Founder of [getting 10 people to same place, at the same time every week shoulnd't be this hard!](https://toepoke.co.uk)
 
 Take care.<br/>
