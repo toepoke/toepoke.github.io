@@ -37,7 +37,7 @@ The founder of [toepoke.co.uk](https://toepoke.co.uk) is considering adopting th
 
 > I'm love playing, but I'm a terrible footballer.  Having a ball twice the size would help me immensely.<br/>
 
-Founder of [getting 10 people to same place, at the same time every week shoulnd't be this hard!](https://toepoke.co.uk)
+Founder of [getting 10 people to same place, at the same time every week shouldn't be this hard!](https://toepoke.co.uk)
 
 Take care.<br/>
 Team TP.
