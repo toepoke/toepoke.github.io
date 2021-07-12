@@ -26,7 +26,7 @@ Been running this the last few years.  No prizes (sorry), just a bit of fun.
 3. Click **Create and join new leagues**.
 4. Click **Join a league**.
 4. Select **Join private league**.
-5. When prompted enter the code **tmoqsg**
+5. When prompted enter the code **earxc1**
 6. Click **Join league**.
 
 Hope to see you there!
