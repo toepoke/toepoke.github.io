@@ -21,7 +21,8 @@ author:
 
 Been running this the last few years.  No prizes (sorry), just a bit of fun.
 
-[Direct invite link](https://fantasy.premierleague.com/leagues/421574/invite)
+[Direct invite link](https://fantasy.premierleague.com/leagues/auto-join/lm8l8j)
+
 
 1. Sign-up with [Fantasy Premier League](http://fantasy.premierleague.com).
 2. Click the **Leagues** tab.
