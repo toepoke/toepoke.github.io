@@ -39,6 +39,6 @@ Hope to see you there!
 - **Jul, 2019:** Updated league code for 2019-2020 season
 - **Aug, 2019:** Updated league code for 2020-2021 season
 - **Jul, 2020:** Updated league code for 2020-2021 season
-- **Jul, 2021:** Updated league code for 2020-2021 Leeds United Premier League winning season :-)
+- **Jul, 2021:** Updated league code for 2021-2022 Leeds United Premier League winning season :-)
 - **Jul, 2022:** Updated league code for 2022-2023 season
 
