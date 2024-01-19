@@ -1,7 +1,7 @@
 ---
 layout: post
 
-date: 2021-07-12 07:59:00
+date: 2022-08-25 07:59:00
 tags: [fun]
 
 title: "Fantasy League Fun!"
@@ -21,7 +21,7 @@ author:
 
 Been running this the last few years.  No prizes (sorry), just a bit of fun.
 
-[Direct invite link](https://fantasy.premierleague.com/leagues/auto-join/lm8l8j)
+[Direct invite link](https://fantasy.premierleague.com/leagues/auto-join/csgkui)
 
 
 1. Sign-up with [Fantasy Premier League](http://fantasy.premierleague.com).
@@ -29,7 +29,7 @@ Been running this the last few years.  No prizes (sorry), just a bit of fun.
 3. Click **Create and join new leagues**.
 4. Click **Join a league**.
 4. Select **Join private league**.
-5. When prompted enter the code **lm8l8j**
+5. When prompted enter the code **csgkui**
 6. Click **Join league**.
 
 Hope to see you there!
@@ -42,4 +42,6 @@ Hope to see you there!
 - **Jul, 2020:** Updated league code for 2020-2021 season
 - **Jul, 2021:** Updated league code for 2021-2022 Leeds United Premier League winning season :-)
 - **Jul, 2022:** Updated league code for 2022-2023 season
+- **Aug, 2023:** Updated league code for 2023-2024 season
+
 
