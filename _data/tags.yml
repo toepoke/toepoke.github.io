@@ -79,8 +79,14 @@
 - slug: rants
   name: rants
   
+- slug: release
+  name: release
+  
 - slug: security
   name: security
+  
+- slug: sunsetting
+  name: sunsetting
   
 - slug: techie-stuff
   name: techie-stuff
