@@ -98,3 +98,8 @@ table .col2 {
 .fr { float: right; }
 .clear { clear: both; }
 .ar { text-align: right; }
+
+figcaption {
+	font-size: medium;
+	text-align: center;
+}
