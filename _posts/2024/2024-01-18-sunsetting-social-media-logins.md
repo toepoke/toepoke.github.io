@@ -20,7 +20,7 @@ author:
 
 # Introduction
 
-The ability to log in with a social media account seems like it's been in the website [forever](https://toepoke.co.uk/about.aspx/release-notes/1), but all good things come to an end ...
+The ability to log in with a social media account seems like it's been in the website [forever](https://toepoke.co.uk/about.aspx/release-notes/1), but all good things come to an end.
 
 When the next build goes in, the ability to create or log in via social media will no longer be available and I wanted to share why this is the case, and what to do if you log in via <a href="https://twitter.com"><s>x</s> twitter<a>, <a href="https://facebook.com">facebook</a> or <a href="https://google.com">google</a>.
 
