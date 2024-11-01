@@ -10,4 +10,4 @@ gem 'jekyll-redirect-from'
 
 
 
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9"
