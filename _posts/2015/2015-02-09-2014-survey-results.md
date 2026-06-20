@@ -121,7 +121,7 @@ It's good to see that you're interested.  It's a *big* change so it's helpful to
 
 In conclusion I think the survey has been a worthwhile exercise.  It's helped me understand what works for you, and what doesn't.  I can certainly see us doing another in the future.  Remember you can [view the results in full if you'd like]({% post_url /2015/2015-02-09-2014-survey-results-full-results %}).
 
-If there's anything you'd like to add, or anything you think should be covered in the future, please add a comment, or <a href="https://toepoke.uservoice.com/forums/36616-general">open a suggestion</a>.
+If there's anything you'd like to add, or anything you think should be covered in the future, please add a comment, or <a href="https://github.com/toepoke/community#suggestions">open a suggestion</a>.
 
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script type="text/javascript" src="/images/posts/2015/2015-02-09-2014-survey-results.js"></script>
