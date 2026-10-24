@@ -1,11 +1,8 @@
 :: Based on https://snorristurluson.github.io/GitHubPagesLocallyOnWindows/
 
-winget install -e --id RubyInstallerTeam.RubyWithDevKit.3.4
+winget install -e --id RubyInstallerTeam.RubyWithDevKit.4.0
 
-@echo **************************************************************
-@echo Restart your PowerShell window (so Ruby is in your path)
-@echo **************************************************************
-@timeout /T 10
+set PATH=%PATH%;C:\Ruby40-x64\bin
 
 @echo **************************************************************
 @echo About to install Ruby for Windows.
